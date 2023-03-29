@@ -14,7 +14,7 @@ driver.get('https://runic.is/')
 time.sleep(5)
 
 # Loop through each input string
-with open('oldnorse_nopunc.txt') as input_file:
+with open('texts/oldnorse_nopunc.txt') as input_file:
     oldnorse_array = input_file.readlines()
 
 for runa_string_in in oldnorse_array:
@@ -44,7 +44,7 @@ for runa_string_in in oldnorse_array:
     time.sleep(1)
 
     # Write the output text to the output.txt file
-    with open('futhark_raw.txt', 'a') as output_file:
+    with open('texts/futhark_raw.txt', 'a') as output_file:
         output_file.write(runo_string + '\n')
             
 #KILL IT WITH FIRE

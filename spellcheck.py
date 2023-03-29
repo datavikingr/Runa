@@ -2,11 +2,11 @@
 
 import json
 
-with open('spellcheck.json') as f:
+with open('dictionaries/spellcheck.json') as f:
     sc_dict = json.load(f)
 
 # Open the input file
-with open('futhark_allrunes.txt', 'r') as f:
+with open('texts/futhark_allrunes.txt', 'r') as f:
     # Read the file line by line
     lines = f.readlines()
 
@@ -35,7 +35,7 @@ for line in lines:
     modified_lines.append(modified_line)
 
 # Open the output file
-with open('CLEAN_futhark.txt', 'w') as f:
+with open('texts/CLEAN_futhark.txt', 'w') as f:
     # Write the modified lines to the output file
     f.writelines(modified_lines)
 

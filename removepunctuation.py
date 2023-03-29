@@ -10,7 +10,7 @@ def remove_punctuation(punc_input):
   return ''.join([char for char in punc_input if char not in punct])
 
 # Open the input file in read mode, assign it
-with open('oldnorse_input.txt', 'r') as input_file:
+with open('texts/oldnorse_input.txt', 'r') as input_file:
   # read the entire contents of the file as a string
   punc_input = input_file.read()
 
@@ -18,7 +18,7 @@ with open('oldnorse_input.txt', 'r') as input_file:
 punc_output = remove_punctuation(punc_input)
 
 # open the output file in write mode
-with open('oldnorse_nopunc.txt', 'w') as output_file:
+with open('texts/oldnorse_nopunc.txt', 'w') as output_file:
   # write the output string to the file
   output_file.write(punc_output)
 

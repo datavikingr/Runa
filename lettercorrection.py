@@ -3,11 +3,11 @@
 import json
 
 ## Import the dictionaries from the file
-with open('letterswap.json') as f:
+with open('dictionaries/letterswap.json') as f:
     ls_dict = json.load(f)
 
 # Open the input file
-with open('futhark_raw.txt', 'r') as g:
+with open('texts/futhark_raw.txt', 'r') as g:
     # Read the entire file into a string
     s = g.read()
 
@@ -26,7 +26,7 @@ for c in s:
 modified_s = ''.join(modified_chars)
 
 # Open the output file
-with open('futhark_allrunes.txt', 'w') as f:
+with open('texts/futhark_allrunes.txt', 'w') as f:
     # Write the modified string to the output file
     f.write(modified_s)
     
