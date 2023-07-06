@@ -17,19 +17,19 @@ def remove_punctuation(text):
     return text.translate(translator)
 ##########################################
 def process_input_string(driver, runa_string_in):
-    input_field = driver.find_element(By.ID, 'inntak')
-    input_field.send_keys(runa_string_in)
-    submit_button = driver.find_element(By.ID, 'fa_runir_takki')
-    submit_button.click()
-    driver.implicitly_wait(0.5)
-    html = driver.page_source
-    soup = BeautifulSoup(html, 'html.parser')
-    if len(runa_string_in) <= 3:
+    if runa_string_in.isdigit():
         runo_string = runa_string_in
     else:
-        runo_string = soup.find('div', {'id': 'runirstadur'}).text
-    input_field.clear()
-    driver.implicitly_wait(0.5)
+        input_field = driver.find_element(By.ID, 'inntak')
+        input_field.send_keys(runa_string_in)
+        submit_button = driver.find_element(By.ID, 'fa_runir_takki')
+        submit_button.click()
+        time.sleep(.5)
+        html = driver.page_source
+        soup = BeautifulSoup(html, 'html.parser')
+        runo_string = soup.find('h4', {'class': 'runir-nidurstada'}).contents[0]
+        input_field.clear()
+    time.sleep(0.5)
     with open('3-futhark_raw.txt', 'a') as output_file:
         output_file.write(runo_string + '\n')
 ##########################################
@@ -46,7 +46,7 @@ def modify_word(word, sc_dict):
 def remove_empty_lines(line):
     return line.strip()
 ##########################################
-# First Pass: Copyright notice stripping #TODO: Replace later
+# First Pass: Copyright notice stripping 
 ##########################################
 string_to_strip = input("Enter the string to strip: ")
 with open('oldnorse_input.txt', 'r') as input_file:
@@ -105,7 +105,7 @@ with open('5-spchked_futhark.txt', 'w') as f:
 ##########################################
 with open('5-spchked_futhark.txt', 'r') as file:
     lines = file.readlines()
-modified_lines = [remove_empty_lines(line) for line in lines if line.strip()]
+modified_lines = [line for line in lines if line.strip()]
 with open('FINAL.txt', 'w') as file:
     file.writelines(modified_lines)
     file.write(string_to_strip)
