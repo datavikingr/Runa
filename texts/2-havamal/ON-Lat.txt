@@ -6,6 +6,7 @@ um skyggnast skyli,
 þvíat óvíst er at vita
 hvar óvinir
 sitja á fleti fyrir.
+
 2.
 Gefendr heilir!
 Gestr er inn kominn.
@@ -13,6 +14,7 @@ Hvar skal sitja sjá?
 Mjǫk er bráðr
 sá er á brǫndum skal
 síns of freista frama.
+
 3.
 Elds er þǫrf
 þeims inn er kominn
@@ -20,6 +22,7 @@ ok á kné kalinn;
 matar ok váða
 er manni þǫrf,
 þeim er hefir um fjall farit.
+
 4.
 Vatns er þǫrf
 þeim er til verðar kømr,
@@ -27,6 +30,7 @@ Vatns er þǫrf
 góðs um æðis,
 ef sér geta mætti,
 orðs ok endrþǫgu.
+
 5.
 Vits er þǫrf
 þeim er víða ratar,
@@ -34,6 +38,7 @@ dælt er heima hvat;
 at augabragði verðr
 sá er ekki kann
 ok með snotrum sitr.
+
 6.
 At hyggjandi sinni
 skylit maðr hrœsinn vera,
@@ -44,6 +49,7 @@ sjaldan verðr víti vǫrum,
 þvíat óbrigðra vin
 fær maðr aldregi
 en manvit mikit.
+
 7.
 Inn vari gestr,
 er til verðar kømr,
@@ -51,6 +57,7 @@ er til verðar kømr,
 eyrum hlýðir,
 en augum skoðar;
 svá nýsisk fróðra hverr fyrir.
+
 8.
 Hinn er sæll
 er sér um getr
@@ -58,6 +65,7 @@ lof ok líknstafi;
 ódælla er við þat
 er maðr eiga skal
 annars brjóstum í.
+
 9.
 Sá er sæll
 er sjálfr um á
@@ -65,6 +73,7 @@ lof ok vit meðan lifir,
 þvíat ill ráð
 hefir maðr opt þegit
 annars brjóstum ór.
+
 10.
 Byrði betri
 berrat maðr brautu at
@@ -72,6 +81,7 @@ en sé manvit mikit;
 auði betra
 þykkir þat í ókunnum stað,
 slíkt er válaðs vera.
+
 11.
 Byrði betri
 berrat maðr brautu at
@@ -79,6 +89,7 @@ en sé mannvit mikit;
 vegnest verra
 vegra hann velli at
 en sé ofdrykkja ǫls.
+
 12.
 Era svá gott
 sem gott kveða
@@ -86,6 +97,7 @@ sem gott kveða
 þvíat færa veit
 er fleira drekkr
 síns til geðs gumi.
+
 13.
 Óminnishegri heitir
 sá er yfir ǫlðrum þrumir,
@@ -93,6 +105,7 @@ hann stelr geði guma;
 þess fugls fjǫðrum
 ek fjǫtraðr vark
 í garði Gunnlaðar.
+
 14.
 Ǫlr ek varð,
 varð ofrǫlvi
@@ -100,6 +113,7 @@ at ins fróða Fjalars;
 því er ǫlðr bazt
 at aptr of heimtir
 hverr sitt geð gumi.
+
 15.
 Þagalt ok hugalt
 skyli þjóðans barn
@@ -107,6 +121,7 @@ ok vígdjarft vera;
 glaðr ok reifr
 skyli gumna hverr,
 unz sinn bíðr bana.
+
 16.
 Ósnjallr maðr
 hyggsk munu ey lifa,
@@ -114,6 +129,7 @@ ef hann við víg varask,
 en elli gefr
 honum engi frið,
 þótt honum geirar gefi.
+
 17.
 Kópir afglapi,
 er til kynnis kømr,
@@ -121,6 +137,7 @@ er til kynnis kømr,
 allt er senn,
 ef hann sylg um getr,
 uppi er þá geð guma.
+
 18.
 Sá einn veit
 er víða ratar
@@ -128,6 +145,7 @@ ok hefir fjǫlð um farit,
 hverju geði
 stýrir gumna hverr,
 sá er vitandi er vits.
+
 19.
 Haldit maðr á keri,
 drekki þó at hófi mjǫð,
@@ -135,6 +153,7 @@ mæli þarft eða þegi;
 ókynnis þess
 vár þik engi maðr,
 at þú gangir snemma at sofa.
+
 20.
 Gráðugr halr,
 nema geðs viti,
@@ -142,6 +161,7 @@ etr sér aldrtrega;
 opt fær hlœgis,
 er með horskum kømr,
 manni heimskum magi.
+
 21.
 Hjarðir þat vitu
 nær þær heim skulu
@@ -149,6 +169,7 @@ ok ganga þá af grasi;
 en ósviðr maðr
 kann ævagi
 síns of mál maga.
+
 22.
 Vesall maðr
 ok illa skapi
@@ -156,6 +177,7 @@ hlær at hvívetna;
 hittki hann veit,
 er hann vita þyrfti,
 at hann era vamma vanr.
+
 23.
 Ósviðr maðr
 vakir um allar nætr
@@ -163,6 +185,7 @@ ok hyggr at hvívetna;
 þá er móðr
 er at morgni kømr,
 allt er víl sem var.
+
 24.
 Ósnotr maðr
 hyggr sér alla vera
@@ -170,6 +193,7 @@ viðhlæjendr vini;
 hittki hann fiðr,
 þótt þeir um hann fár lesi,
 ef hann með snotrum sitr.
+
 25.
 Ósnotr maðr
 hyggr sér alla vera
@@ -177,6 +201,7 @@ viðhlæjendr vini;
 þá þat finnr
 er at þingi kømr,
 at hann á formælendr fá.
+
 26.
 Ósnotr maðr
 þykkisk allt vita,
@@ -184,6 +209,7 @@ ef hann á sér í vá veru;
 hittki hann veit,
 hvat hann skal við kveða,
 ef hans freista firar.
+
 27.
 Ósnotr maðr,
 er með aldir kømr,
@@ -194,6 +220,7 @@ nema hann mæli til margt;
 veita maðr,
 hinn er vætki veit,
 þótt hann mæli til margt.
+
 28.
 Fróðr sá þykkisk
 er fregna kann
@@ -201,6 +228,7 @@ ok segja it sama;
 eyvitu leyna
 megu ýta sønir
 því er gengr um guma.
+
 29.
 Œrna mælir
 sá er æva þegir
@@ -208,6 +236,7 @@ staðlausu stafi;
 hraðmælt tunga,
 nema haldendr eigi,
 opt sér ógott um gelr.
+
 30.
 At augabragði
 skala maðr annan hafa,
@@ -215,6 +244,7 @@ skala maðr annan hafa,
 margr þá fróðr þykkisk,
 ef hann freginn erat
 ok nái hann þurrfjallr þruma.
+
 31.
 Fróðr þykkisk,
 sá er flótta tekr
@@ -222,6 +252,7 @@ gestr at gest hæðinn;
 veita gǫrla,
 sá er um verði glissir,
 þótt hann með grǫmum glami.
+
 32.
 Gumnar margir
 erusk gagnhollir
@@ -229,6 +260,7 @@ en at virði vrekask;
 aldar róg
 þat mun æ vera,
 órir gestr við gest.
+
 33.
 Árliga verðar
 skyli maðr opt fá,
@@ -236,6 +268,7 @@ nema til kynnis komi:
 sitr ok snópir,
 lætr sem sólginn sé
 ok kann fregna at fá.
+
 34.
 Afhvarf mikit
 er til ills vinar,
@@ -243,6 +276,7 @@ er til ills vinar,
 en til góðs vinar
 liggja gagnvegir,
 þótt hann sé firr farinn.
+
 35.
 Ganga skal,
 skala gestr vera
@@ -250,6 +284,7 @@ ey í einum stað;
 ljúfr verðr leiðr,
 ef lengi sitr
 annars fletjum á.
+
 36.
 Bú er betra,
 þótt lítit sé,
@@ -257,6 +292,7 @@ halr er heima hverr;
 þótt tvær geitr eigi
 ok taugreptan sal,
 þat er þó betra en bœn.
+
 37.
 Bú er betra,
 þótt lítit sé,
@@ -264,6 +300,7 @@ halr er heima hverr;
 blóðugt er hjarta
 þeim er biðja skal
 sér í mál hvert matar.
+
 38.
 Vápnum sínum
 skala maðr velli á
@@ -271,6 +308,7 @@ feti ganga framarr,
 þvíat óvíst er at vita
 nær verðr á vegum úti
 geirs of þǫrf guma.
+
 39.
 Fannka ek mildan mann
 eða svá matargóðan
@@ -278,6 +316,7 @@ at eigi væri þiggja þegit,
 eða síns fjár
 svági glǫggvan
 at leið sé laun ef þegi.
+
 40.
 Fjár síns,
 er fengit hefir,
@@ -285,6 +324,7 @@ skylit maðr þǫrf þola;
 opt sparir leiðum
 þats hefir ljúfum hugat;
 margt gengr verr en varir.
+
 41.
 Vápnum ok váðum
 skulu vinir gleðjask;
@@ -292,6 +332,7 @@ skulu vinir gleðjask;
 viðrgefendr ok endrgefendr
 erusk lengst vinir,
 ef þat bíðr at verða vel.
+
 42.
 Vin sínum
 skal maðr vinr vera
@@ -299,6 +340,7 @@ ok gjalda gjǫf við gjǫf;
 hlátr við hlátri
 skyli hǫlðar taka
 en lausung við lygi.
+
 43.
 Vin sínum
 skal maðr vinr vera,
@@ -306,6 +348,7 @@ skal maðr vinr vera,
 en óvinar síns
 skyli engi maðr
 vinar vinr vera.
+
 44.
 Veiztu, ef þú vin átt,
 þann er þú vel trúir,
@@ -313,6 +356,7 @@ ok vill þú af honum gott geta,
 geði skaltu við þann blanda
 ok gjǫfum skipta,
 fara at finna opt.
+
 45.
 Ef þú átt annan
 þanns þú illa trúir,
@@ -320,6 +364,7 @@ vildu af honum þó gott geta,
 fagrt skaltu við þann mæla
 en flátt hyggja
 ok gjalda lausung við lygi.
+
 46.
 Þat er enn of þann
 er þú illa trúir
@@ -327,6 +372,7 @@ ok þér er grunr at hans geði,
 hlæja skaltu við þeim
 ok um hug mæla;
 glík skulu gjǫld gjǫfum.
+
 47.
 Ungr var ek forðum,
 fór ek einn saman,
@@ -334,6 +380,7 @@ fór ek einn saman,
 auðigr þóttumsk
 er ek annan fann;
 maðr er manns gaman.
+
 48.
 Mildir, frœknir
 menn bazt lifa,
@@ -341,6 +388,7 @@ sjaldan sút ala;
 en ósnjallr maðr
 uggir hotvetna,
 sýtir æ gløggr við gjǫfum.
+
 49.
 Váðir mínar
 gaf ek velli at
@@ -348,6 +396,7 @@ tveim trémǫnnum;
 rekkar þat þóttusk,
 er þeir ript hǫfðu,
 neiss er nøkkviðr halr.
+
 50.
 Hrørnar þǫll,
 sú er stendr þorpi á,
@@ -355,6 +404,7 @@ hlýrat henni bǫrkr né barr;
 svá er maðr
 sá er manngi ann,
 hvat skal hann lengi lifa?
+
 51.
 Eldi heitari
 brennr með illum vinum
@@ -362,6 +412,7 @@ friðr fimm daga,
 en þá slokknar
 er inn sétti kømr
 ok versnar allr vinskapr.
+
 52.
 Mikit eitt
 skala manni gefa,
@@ -369,6 +420,7 @@ opt kaupir sér í litlu lof;
 með hálfum hleif
 ok með hǫllu keri
 fekk ek mér félaga.
+
 53.
 Lítilla sanda,
 lítilla sæva,
@@ -376,6 +428,7 @@ lítil eru geð guma;
 þvíat allir menn
 urðut jafnspakir,
 hálf er ǫld hvar.
+
 54.
 Meðalsnotr
 skyli manna hverr,
@@ -383,6 +436,7 @@ skyli manna hverr,
 þeim er fyrða
 fegrst at lifa
 er vel margt vitu.
+
 55.
 Meðalsnotr
 skyli manna hverr,
@@ -390,6 +444,7 @@ skyli manna hverr,
 þvíat snotrs manns hjarta
 verðr sjaldan glatt,
 ef sá er alsnotr er á.
+
 56.
 Meðalsnotr
 skyli manna hverr,
@@ -397,6 +452,7 @@ skyli manna hverr,
 ørlǫg sín
 viti engi fyrir,
 þeim er sorgalausastr sefi.
+
 57.
 Brandr af brandi
 brenn unz brunninn er,
@@ -404,6 +460,7 @@ funi kveykisk af funa;
 maðr af manni
 verðr af máli kuðr,
 en til dœlskr af dul.
+
 58.
 Ár skal rísa
 sá er annars vill
@@ -411,6 +468,7 @@ fé eða fjǫr hafa;
 sjaldan liggjandi úlfr
 lær of getr
 né sofandi maðr sigr.
+
 59.
 Ár skal rísa
 sá er á yrkjendr fá
@@ -418,6 +476,7 @@ ok ganga síns verka á vit;
 margt of dvelr
 þann er um morgin sefr;
 hálfr er auðr und hvǫtum.
+
 60.
 Þurra skíða
 ok þakinna næfra,
@@ -425,6 +484,7 @@ ok þakinna næfra,
 ok þess viðar,
 er vinnask megi
 mál ok misseri.
+
 61.
 Þveginn ok mettr
 ríði maðr þingi at,
@@ -433,6 +493,7 @@ skúa ok bróka
 skammisk engi maðr
 né hests in heldr,
 þótt hann hafit góðan.
+
 62.
 Snapir ok gnapir,
 er til sævar kømr,
@@ -440,6 +501,7 @@ er til sævar kømr,
 svá er maðr
 er með mǫrgum kømr
 ok á formælendr fá.
+
 63.
 Fregna ok segja
 skal fróðra hverr,
@@ -447,6 +509,7 @@ sá er vill heitinn horskr;
 einn vita
 né annarr skal;
 þjóð veit ef þrír ro.
+
 64.
 Ríki sitt
 skyli ráðsnotra
@@ -454,10 +517,12 @@ hverr í hófi hafa;
 þá hann þat finnr
 er með frœknum kømr
 at engi er einna hvatastr.
+
 65.
 Orða þeira
 er maðr ǫðrum segir
 opt hann gjǫld um getr.
+
 66.
 Mikilsti snemma
 kom ek í marga staði
@@ -465,6 +530,7 @@ en til síð í suma;
 ǫl var drukkit,
 sumt var ólagat,
 sjaldan hittir leiðr í líð.
+
 67.
 Hér ok hvar
 myndi mér heim of boðit,
@@ -472,6 +538,7 @@ ef þyrftak at málungi mat,
 eða tvau lær hengi
 at ins tryggva vinar,
 þars ek hafða eitt etit.
+
 68.
 Eldr er beztr
 með ýta sonum
@@ -479,6 +546,7 @@ ok sólar sýn,
 heilyndi sitt
 ef maðr hafa náir,
 án við lǫst at lifa.
+
 69.
 Erat maðr alls vesall,
 þótt hann sé illa heill;
@@ -486,6 +554,7 @@ sumr er af sonum sæll,
 sumr af frændum,
 sumr af fé œrnu,
 sumr af verkum vel.
+
 70.
 Betra er lifðum
 en sé illlifðum,
@@ -493,6 +562,7 @@ ey getr kvikr kú;
 eld sá ek upp brenna
 auðgum manni fyrir,
 en úti var dauðr fyr durum.
+
 71.
 Haltr ríðr hrossi,
 hjǫrð rekr handarvanr,
@@ -500,6 +570,7 @@ daufr vegr ok dugir;
 blindr er betri
 en brenndr sé;
 nýtr manngi nás.
+
 72.
 Sonr er betri,
 þótt sé síð of alinn,
@@ -507,11 +578,13 @@ eptir genginn guma;
 sjaldan bautarsteinar
 standa brautu nær,
 nema reisi niðr at nið.
+
 73.
 Tveir ro eins herjar,
 tunga er hǫfuðs bani,
 er mér í heðin hvern
 handar væni.
+
 74.
 Nótt verðr feginn
 sá er nesti trúir,
@@ -520,6 +593,7 @@ hverf er haustgríma;
 fjǫlð um viðrir
 á fimm dǫgum
 en meira á mánaði.
+
 75.
 Veita hinn
 er vætki veit;
@@ -527,6 +601,7 @@ margr verðr af aurum api;
 maðr er auðigr,
 annar óauðigr,
 skylit þann vítka vár.
+
 76.
 Deyr fé,
 deyja frændr,
@@ -534,6 +609,7 @@ deyr sjálfr it sama;
 en orðstírr
 deyr aldregi
 hveim er sér góðan getr.
+
 77.
 Deyr fé,
 deyja frændr,
@@ -541,6 +617,7 @@ deyr sjálfr it sama;
 ek veit einn
 at aldrei deyr:
 dómr um dauðan hvern.
+
 78.
 Fullar grindr
 sá ek fyr Fitjungs sonum,
@@ -548,6 +625,7 @@ nú bera þeir vánar vǫl;
 svá er auðr
 sem augabragð,
 hann er valtastr vina.
+
 79.
 Ósnotr maðr
 ef eignask getr
@@ -555,6 +633,7 @@ fé eða fljóðs munuð,
 metnaðr honum þróask
 en mannvit aldregi,
 fram gengr hann drjúgt í dul.
+
 80.
 Þat er þá reynt
 er þú at rúnum spyrr
@@ -562,6 +641,7 @@ inum reginkunnum,
 þeim er gørðu ginnregin
 ok fáði fimbulþulr;
 þá hefir hann bazt ef hann þegir.
+
 81.
 At kveldi skal dag leyfa,
 konu er brennd er,
@@ -569,6 +649,7 @@ mæki er reyndr er,
 mey er gefin er,
 ís er yfir kømr,
 ǫl er drukkit er.
+
 82.
 Í vindi skal við hǫggva,
 veðri á sjó róa,
@@ -578,6 +659,7 @@ mǫrg eru dags augu;
 en á skjǫld til hlífar,
 mæki hǫggs
 en mey til kossa.
+
 83.
 Við eld skal ǫl drekka
 en á ísi skríða,
@@ -585,6 +667,7 @@ magran mar kaupa
 en mæki saurgan,
 heima hest feita
 en hund á búi.
+
 84.
 Meyjar orðum
 skyli manngi trúa
@@ -592,6 +675,7 @@ né því er kveðr kona,
 þvíat á hverfanda hvéli
 váru þeim hjǫrtu skǫpuð,
 brigð í brjóst um lagið.
+
 85.
 Brestanda boga,
 brennanda loga,
@@ -601,6 +685,7 @@ rýtanda svíni,
 rótlausum viði,
 vaxanda vági,
 vellanda katli,
+
 86.
 fljúganda fleini,
 fallandi báru,
@@ -610,11 +695,13 @@ brúðar beðmálum
 eða brotnu sverði,
 bjarnar leiki
 eða barni konungs,
+
 87.
 sjúkum kálfi,
 sjálfráða þræli,
 vǫlu vilmæli,
 val nýfelldum;
+
 88.
 akri ársánum
 trúi engi maðr
@@ -622,6 +709,7 @@ né til snemma syni
 - veðr ræðr akri
 en vit syni,
 hætt er þeira hvárt -
+
 89.
 bróðurbana sínum,
 þótt á brautu mœti,
@@ -631,6 +719,7 @@ hesti alskjótum
 ef einn fótr brotnar -
 verðit maðr svá tryggr
 at þessu trúi ǫllu.
+
 90.
 Svá er friðr kvenna
 þeira er flátt hyggja
@@ -642,6 +731,7 @@ eða í byr óðum
 beiti stjórnlausu,
 eða skyli haltr henda
 hrein í þáfjalli.
+
 91.
 Bert ek nú mæli,
 þvíat ek bæði veit,
@@ -649,6 +739,7 @@ brigðr er karla hugr konum;
 þá vér fegrst mælum
 er vér flást hyggjum,
 þat tælir horska hugi.
+
 92.
 Fagrt skal mæla
 ok fé bjóða
@@ -656,6 +747,7 @@ sá er vill fljóðs ást fá,
 líki leyfa
 ins ljósa mans;
 sá fær er frjár.
+
 93.
 Ástar firna
 skyli engi maðr
@@ -663,6 +755,7 @@ annan aldregi;
 oft fá á horskan
 er á heimskan né fá
 lostfagrir litir.
+
 94.
 Eyvitar firna
 er maðr annan skal
@@ -670,6 +763,7 @@ er maðr annan skal
 heimska ór horskum
 gørir hǫlða sonu
 sá inn máttki munr.
+
 95.
 Hugr einn þat veit
 er býr hjarta nær,
@@ -677,6 +771,7 @@ einn er hann sér um sefa;
 øng er sótt verri
 hveim snotrum manni
 en sér øngu at una.
+
 96.
 Þat ek þá reynda
 er ek í reyri sat
@@ -684,6 +779,7 @@ ok vættak míns munar;
 hold ok hjarta
 var mér in horska mær,
 þeygi ek hana at heldr hefik.
+
 97.
 Billings mey
 ek fann beðjum á
@@ -691,6 +787,7 @@ sólhvíta sofa;
 jarls ynði
 þótti mér ekki vera
 nema við þat lík at lifa.
+
 98.
 Auk nær aptni
 skaltu, Óðinn, koma,
@@ -698,6 +795,7 @@ ef þú vilt þér mæla man;
 allt eru óskǫp,
 nema einir viti
 slíkan lǫst saman.
+
 99.
 Aptr ek hvarf
 ok unna þóttumsk
@@ -705,6 +803,7 @@ vísum vilja frá;
 hitt ek hugða
 at ek hafa mynda
 geð hennar allt ok gaman.
+
 100.
 Svá kom ek næst
 at in nýta var
@@ -712,6 +811,7 @@ vígdrótt ǫll um vakin;
 með brennandum ljósum
 ok bornum viði,
 svá var mér vilstígr of vitaðr.
+
 101.
 Ok nær morgni,
 er ek var enn um kominn,
@@ -719,6 +819,7 @@ er ek var enn um kominn,
 grey eitt ek þá fann
 innar góðu konu
 bundit beðjum á.
+
 102.
 Mǫrg er góð mær,
 ef gǫrva kannar,
@@ -729,6 +830,7 @@ teygða ek á flærðir fljóð;
 háðungar hverrar
 leitaði mér it horska man,
 ok hafða ek þess vætki vífs.
+
 103.
 Heima glaðr gumi
 ok við gesti reifr,
@@ -739,6 +841,7 @@ opt skal góðs geta;
 fimbulfambi heitir
 sá er fátt kann segja,
 þat er ósnotrs aðal.
+
 104.
 Inn aldna jǫtun ek sótta,
 nú em ek aptr um kominn,
@@ -746,6 +849,7 @@ fátt gat ek þegjandi þar;
 mǫrgum orðum
 mælta ek í minn frama
 í Suttungs sǫlum.
+
 105.
 Gunnlǫð mér um gaf
 gullnum stóli á
@@ -754,6 +858,7 @@ ill iðgjǫld
 lét ek hana eptir hafa
 síns ins heila hugar,
 síns ins svára sefa.
+
 106.
 Rata munn
 létumk rúms um fá
@@ -761,6 +866,7 @@ ok um grjót gnaga;
 yfir ok undir
 stóðumk jǫtna vegir;
 svá hætta ek hǫfði til.
+
 107.
 Vel keypts litar
 hefi ek vel notit,
@@ -768,6 +874,7 @@ fás er fróðum vant,
 þvíat Óðrerir
 er nú upp kominn
 á alda vés jaðar.
+
 108.
 Ifi er mér á
 at ek væra enn kominn
@@ -775,6 +882,7 @@ jǫtna gǫrðum ór,
 ef ek Gunnlaðar né nytak,
 innar góðu konu,
 þeirar er lǫgðumk arm yfir.
+
 109.
 Ins hindra dags
 gengu hrímþursar
@@ -783,6 +891,7 @@ Háva hǫllu í;
 at Bǫlverki þeir spurðu,
 ef hann væri með bǫndum kominn
 eða hefði honum Suttungr of sóit.
+
 110.
 Baugeið Óðinn
 hygg ek at unnit hafi,
@@ -790,6 +899,7 @@ hvat skal hans tryggðum trúa?
 Suttung svikinn
 hann lét sumbli frá
 ok grœtta Gunnlǫðu.
+
 111.
 Mál er at þylja
 þular stóli á
@@ -802,6 +912,7 @@ né um ráðum þǫgðu,
 Háva hǫllu at,
 Háva hǫllu í,
 heyrða ek segja svá:
+
 112.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -810,6 +921,7 @@ njóta mundu ef þú nemr,
 nótt þú rísat
 nema á njósn sér
 eða þú leitir þér innan út staðar.
+
 113.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -818,6 +930,7 @@ njóta mundu ef þú nemr,
 fjǫlkunnigri konu
 skalatu í faðmi sofa,
 svá at hon lyki þik liðum.
+
 114.
 Hon svá gørir
 at þú gáir eigi
@@ -825,6 +938,7 @@ at þú gáir eigi
 mat þú villat
 né mannskis gaman,
 ferr þú sorgafullr at sofa.
+
 115.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -833,6 +947,7 @@ njóta mundu ef þú nemr,
 annars konu
 teygðu þér aldregi
 eyrarúnu at.
+
 116.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -841,6 +956,7 @@ njóta mundu ef þú nemr,
 á fjalli eða firði
 ef þik fara tíðir,
 fástu at virði vel.
+
 117.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -852,6 +968,7 @@ láttu aldregi
 þvíat af illum manni
 fær þú aldregi
 gjǫld ins góða hugar.
+
 118.
 Ofarla bíta
 ek sá einum hal
@@ -859,6 +976,7 @@ orð illrar konu;
 fláráð tunga
 varð honum at fjǫrlagi
 ok þeygi um sanna sǫk.
+
 119.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -870,6 +988,7 @@ far þú at finna opt,
 þvíat hrísi vex
 ok hávu grasi
 vegr er vætki trøðr.
+
 120.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -878,6 +997,7 @@ njóta mundu ef þú nemr,
 góðan mann
 teygðu þér at gamanrúnum
 ok nem líknargaldr meðan þú lifir.
+
 121.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -889,6 +1009,7 @@ fyrri at flaumslitum;
 sorg etr hjarta
 ef þú segja né náir
 einhverjum allan hug.
+
 122.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -897,6 +1018,7 @@ njóta mundu ef þú nemr,
 orðum skipta
 þú skalt aldregi
 við ósvinna apa,
+
 123.
 Þvíat af illum manni
 mundu aldregi
@@ -904,6 +1026,7 @@ góðs laun um geta,
 en góðr maðr
 mun þik gørva mega
 líknfastan at lofi.
+
 124.
 Sifjum er þá blandat,
 hver er segja ræðr
@@ -912,6 +1035,7 @@ allt er betra
 en sé brigðum at vera;
 era sá vinr ǫðrum
 er vilt eitt segir.
+
 125.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -921,6 +1045,7 @@ njóta mundu ef þú nemr,
 skalatu þér við verra mann;
 opt inn betri bilar,
 þá er inn verri vegr.
+
 126.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -932,6 +1057,7 @@ nema þú sjálfum þér sér;
 skór er skapaðr illa
 eða skapt sé rangt,
 þá er þér bǫls beðit.
+
 127.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -940,6 +1066,7 @@ njóta mundu ef þú nemr,
 hvars þú bǫl kannt
 kveð þú þér bǫlvi at
 ok gefat þínum fjándum frið.
+
 128.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -948,6 +1075,7 @@ njóta mundu ef þú nemr,
 illu feginn
 ver þú aldregi,
 en lát þér at góðu getit.
+
 129.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -958,6 +1086,7 @@ skalatu í orrostu
 - gjalti glíkir
 verða gumna synir -
 síðr þitt um heilli halir.
+
 130.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -969,6 +1098,7 @@ ok fá fǫgnuð af,
 fǫgru skaldu heita
 ok láta fast vera;
 leiðisk manngi gótt, ef getr.
+
 131.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -980,6 +1110,7 @@ ver þú við ǫl varastr
 ok við annars konu
 ok við þat it þriðja
 at þjófar né leiki.
+
 132.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -988,6 +1119,7 @@ njóta mundu ef þú nemr,
 at háði né hlátri
 hafðu aldregi
 gest né ganganda.
+
 133.
 Opt vitu ógǫrla
 þeir er sitja inni fyrir
@@ -995,6 +1127,7 @@ hvers þeir ro kyns er koma;
 erat maðr svá góðr
 at galli né fylgi
 né svá illr at einugi dugi.
+
 134.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -1008,6 +1141,7 @@ skilin orð koma,
 þeim er hangir með hám
 ok skollir með skrám
 ok váfir með vilmǫgum.
+
 135.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -1016,6 +1150,7 @@ njóta mundu ef þú nemr,
 gest þú né geyja
 né á grind hrekir,
 get þú váluðum vel.
+
 136.
 Ramt er þat tré
 er ríða skal
@@ -1023,6 +1158,7 @@ er ríða skal
 baug þú gef,
 eða þat biðja mun
 þér læs hvers á liðu.
+
 137.
 Ráðumk þér, Loddfáfnir,
 en þú ráð nemir,
@@ -1039,6 +1175,7 @@ hǫll við hýrógi
 beiti við bitsóttum
 en við bǫlvi rúnar,
 fold skal við flóði taka.
+
 138.
 Veit ek at ek hekk
 vindga meiði á
@@ -1049,6 +1186,7 @@ sjálfr sjálfum mér,
 á þeim meiði
 er manngi veit
 hvers af rótum renn.
+
 139.
 Við hleifi mik sældu
 né við hornigi;
@@ -1056,6 +1194,7 @@ nýsta ek niðr,
 nam ek upp rúnar,
 œpandi nam,
 fell ek aftr þaðan.
+
 140.
 Fimbulljóð níu
 nam ek af inum frægja syni
@@ -1063,6 +1202,7 @@ Bǫlþorns, Bestlu fǫður,
 ok ek drykk of gat
 ins dýra mjaðar
 ausinn Óðreri.
+
 141.
 Þá nam ek frævask
 ok fróðr vera
@@ -1071,6 +1211,7 @@ orð mér af orði
 orðs leitaði,
 verk mér af verki
 verks leitaði.
+
 142.
 Rúnar munt þú finna
 ok ráðna stafi,
@@ -1079,12 +1220,14 @@ mjǫk stinna stafi,
 er fáði fimbulþulr
 ok gørðu ginnregin
 ok reist Hroptr rǫgna.
+
 143.
 Óðinn með ásum,
 en fyr álfum Dáinn,
 Dvalinn dvergum fyrir,
 Ásviðr jǫtnum fyrir,
 ek reist sjálfr sumar.
+
 144.
 Veiztu hvé rísta skal?
 Veiztu hvé ráða skal?
@@ -1094,6 +1237,7 @@ Veiztu hvé biðja skal?
 Veiztu hvé blóta skal?
 Veiztu hvé senda skal?
 Veiztu hvé sóa skal?
+
 145.
 Betra er óbeðit
 en sé ofblótit,
@@ -1104,6 +1248,7 @@ Svá Þundr um reist
 fyr þjóða røk;
 þar hann upp um reis,
 er hann aptr of kom.
+
 146.
 Ljóð ek þau kann
 er kannat þjóðans kona
@@ -1112,6 +1257,7 @@ hjálp heitir eitt,
 en þat þér hjálpa mun
 við sǫkum ok sorgum
 ok sútum gǫrvǫllum.
+
 147.
 Þat kann ek annat
 er þurfu ýta synir,
@@ -1123,6 +1269,7 @@ hapts við mína heiptmǫgu,
 eggjar ek deyfi
 minna andskota,
 bítat þeim vápn né velir.
+
 149.
 Þat kann ek it fjórða,
 ef mér fyrðar bera
@@ -1131,6 +1278,7 @@ svá ek gel
 at ek ganga má,
 sprettr mér af fótum fjǫturr
 en af hǫndum hapt.
+
 150.
 Þat kann ek it fimmta,
 ef ek sé af fári skotinn
@@ -1138,6 +1286,7 @@ flein í fólki vaða,
 fýgra hann svá stinnt
 at ek stǫðvigak,
 ef ek hann sjónum of sék.
+
 151.
 Þat kann ek it sétta,
 ef mik særir þegn
@@ -1145,6 +1294,7 @@ ef mik særir þegn
 ok þann hal
 er mik heipta kveðr,
 þann eta mein heldr en mik.
+
 152.
 Þat kann ek it sjaunda,
 ef ek sé hávan loga
@@ -1152,6 +1302,7 @@ sal um sessmǫgum,
 brennrat svá breitt
 at ek honum bjargigak;
 þann kann ek galdr at gala.
+
 153.
 Þat kann ek it átta
 er ǫllum er
@@ -1159,6 +1310,7 @@ nytsamligt at nema,
 hvars hatr vex
 með hildings sonum
 þat má ek bœta brátt.
+
 154.
 Þat kann ek it níunda,
 ef mik nauðr um stendr
@@ -1166,6 +1318,7 @@ at bjarga fari mínu á floti,
 vind ek kyrri
 vági á
 ok svæfik allan sæ.
+
 155.
 Þat kann ek it tíunda,
 ef ek sé túnriður
@@ -1174,6 +1327,7 @@ ek svá vinnk
 at þeir villir fara
 sinna heimhama,
 sinna heimhuga.
+
 156.
 Þat kann ek it ellipta,
 ef ek skal til orrostu
@@ -1183,6 +1337,7 @@ en þeir með ríki fara
 heilir hildar til,
 heilir hildi frá,
 koma þeir heilir hvaðan.
+
 157.
 Þat kann ek it tólpta,
 ef ek sé á tré uppi
@@ -1191,6 +1346,7 @@ svá ek ríst
 ok í rúnum fák
 at sá gengr gumi
 ok mælir við mik.
+
 158.
 Þat kann ek it þrettánda,
 ef ek skal þegn ungan
@@ -1198,6 +1354,7 @@ verpa vatni á,
 munat hann falla,
 þótt hann í folk komi,
 hnígra sá halr fyr hjǫrum.
+
 159.
 Þat kann ek it fjórtánda,
 ef ek skal fyrða liði
@@ -1205,6 +1362,7 @@ telja tíva fyrir,
 ása ok álfa
 ek kann allra skil,
 fár kann ósnotr svá.
+
 160.
 Þat kann ek it fimmtánda
 er gól Þjóðrørir
@@ -1212,6 +1370,7 @@ dvergr fyr Dellings durum;
 afl gól hann ásum
 en álfum frama,
 hyggju Hroptatý.
+
 161.
 Þat kann ek it sextánda,
 ef ek vil ins svinna mans
@@ -1219,6 +1378,7 @@ hafa geð allt ok gaman,
 hugi ek hverfi
 hvítarmri konu,
 ok sný ek hennar ǫllum sefa.
+
 162.
 Þat kann ek it sjautjánda
 at mik mun seint firrask
@@ -1229,6 +1389,7 @@ lengi vanr vera;
 þó sé þér góð ef þú getr,
 nýt ef þú nemr,
 þǫrf ef þú þiggr.
+
 163.
 Þat kann ek it átjánda,
 er ek æva kennik
@@ -1239,6 +1400,7 @@ er einn um kann,
 nema þeiri einni
 er mik armi verr
 eða mín systir sé.
+
 164.
 Nú eru Háva mál kveðin
 Háva hǫllu í,
