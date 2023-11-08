@@ -26,7 +26,7 @@ I'm relying on the public domain work of Bellows, Thorpe, Grimm, et al. for the 
 
 ## Spelling Methodology in a Dead Language?
 
-The baseline for the Old Norse Texts I've played with so far is The Old Icelandic Text Society (Íslenzk fornrit/Hið íslenzka fornritafélag) standardized spelling via the Humanities Department of the Univeristy of Oslo (https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=18). 
+The baseline for the Old Norse Texts I've played with so far is The Old Icelandic Text Society (Íslenzk fornrit/Hið íslenzka fornritafélag) standardized spelling via [the Humanities Department of the Univeristy of Oslo](https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=18). 
 
 If there's a question between that and the other sources listed throughout the README or the comments of the code itself, I cross-reference other editions of the text in question from publicly available and reputable sources. I try to use common sense and some amateur etymology, while keeping an eye out for paper towns/typos; the majority vote on the spelling takes it. Because, of course, even our definitive sources disagree with each other. Neat.
 
