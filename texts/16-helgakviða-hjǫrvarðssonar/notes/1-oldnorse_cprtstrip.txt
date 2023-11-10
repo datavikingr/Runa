@@ -21,7 +21,6 @@ konur þær er Hjǫrvarðr konungr átti.
 Fuglinn kvakaði, en Atli hlýddi, hvat hann sagði. 
 Hann kvað: 
 Fuglinn kvað:
-
 1.
 "Sáttu Sigrlinn
 Sváfnis dóttur,
@@ -32,21 +31,18 @@ Hjǫrvarðs konur
 gumnum þykkja
 at Glasislundi." 
 Atli kvað:
-
 2.
 "Mundu við Atla,
 Iðmundar son,
 fugl fróðhugaðr,
 fleira mæla?" 
 Fuglinn kvað:
-
 3.
 "Mun ek, ef mik buðlungr
 blóta vildi,
 ok kýs ek þats ek vil
 ór konungs garði." 
 Atli kvað:
-
 4.
 "Kjósattu Hjǫrvarð
 né hans sonu
@@ -57,7 +53,6 @@ er buðlungr á;
 kaupum vel saman,
 þat er vina kynni." 
 Fuglinn kvað:
-
 5.
 "Hof mun ek kjósa,
 hǫrga marga,
@@ -70,7 +65,6 @@ jǫfri fylgir."
 Þetta var áðr Atli fœri. 
 En er hann kom heim ok konungr 
 spurði hann tíðinda, hann kvað: 
-
 6.
 "Hǫfum erfiði
 ok ekki ørindi,
@@ -82,7 +76,6 @@ Sæmorn vaða,
 Sváfnis dóttur,
 hringum gœddrar,
 er vér hafa vildum." 
-
 Konungr bað at þeir skyldu fara annat sinn. 
 Fór hann sjálfr. 
 En er þeir kómu upp á fjall ok sá á 
@@ -109,7 +102,6 @@ Hann sat á haugi.
 Hann sá ríða valkyrjur níu, 
 ok var ein gǫfugligust; 
 hon kvað: 
-
 7.
 "Síð mundu, Helgi,
 hringum ráða,
@@ -120,7 +112,6 @@ ef þú æ þegir,
 þóttu harðan hug,
 hilmir, gjaldir." 
 Helgi kvað:
-
 8.
 "Hvat lætr þú fylgja
 Helga nafni,
@@ -131,7 +122,6 @@ atkvæðum vel.
 Þigg ek eigi þat,
 nema ek þik hafa." 
 Valkyrja kvað:
-
 9.
 "Sverð veit ek liggja
 í Sigarshólmi,
@@ -141,7 +131,6 @@ eitt er þeira
 ǫllum betra,
 vígnesta bǫl,
 ok varit gulli. 
-
 10.
 Hringr er í hjalti,
 hugr er í miðju,
@@ -151,14 +140,12 @@ liggr með eggju
 ormr dreyrfáðr,
 en á valbǫstu
 verpr naðr hala." 
-
 Eylimi hét konungr. 
 Dóttir hans var Sváva; 
 hon var valkyrja ok reið lopt ok lǫg. 
 Hon gaf Helga nafn þetta ok hlífði 
 honum opt síðan í orrostum. 
 Helgi kvað: 
-
 11.
 "Ertattu, Hjǫrvarðr,
 heilráðr konungr,
@@ -168,7 +155,6 @@ léztu eld eta
 jǫfra byggðir,
 en þeir angr við þik
 ekki gørðu. 
-
 12.
 En Hróðmarr skal
 hringum ráða,
@@ -178,7 +164,6 @@ sá sésk fylkir
 fæst at lífi,
 hyggsk aldauðra
 arfi at ráða." 
-
 Hjǫrvarðr svaraði at hann mundi fá 
 lið Helga ef hann vill hefna móðurfǫður síns. 
 Þá sótti Helgi sverðit er Sváva vísaði honum til. 
@@ -188,7 +173,6 @@ Hann drap Hata jǫtun er hann sat á bergi nǫkkuru.
 Helgi ok Atli lágu skipum í Hatafirði. 
 Atli helt vǫrð inn fyrra hlut nætrinnar. 
 Hrímgerðr Hatadóttir kvað: 
-
 13.
 "Hverir ro hǫlðar
 í Hatafirði?
@@ -197,7 +181,6 @@ frœknliga látið,
 fátt hygg ek yðr sjásk;
 kennið mér nafn konungs." 
 Atli kvað:
-
 14.
 "Helgi hann heitir,
 en þú hvergi mátt
@@ -205,7 +188,6 @@ vinna grand grami;
 járnborgir ro
 um ǫðlings flota,
 knegut oss fálur fara." 
-
 15.
 "Hvé þik heitir,
 - kvað Hrímgerðr -
@@ -214,7 +196,6 @@ Hvé þik kalla konir?
 Fylkir þér trúir,
 er þik í fǫgrum lætr
 beits stafni búa." 
-
 16.
 "Atli ek heiti,
 atall skal ek þér vera,
@@ -222,7 +203,6 @@ mjǫk em ek gífrum gramastr;
 úrgan stafn
 ek hefi opt búit
 ok kvalðar kveldriður. 
-
 17.
 Hvé þú heitir,
 hála nágráðug?
@@ -230,7 +210,6 @@ Nefndu þinn, fála, fǫður.
 Níu rǫstum
 er þú skyldi neðarr vera,
 ok vaxi þér á baðmi barr." 
-
 18.
 "Hrímgerðr ek heiti,
 Hati hét minn faðir,
@@ -238,7 +217,6 @@ Hati hét minn faðir,
 margar brúðir
 hann lét frá búi teknar,
 unz hann Helgi hjó." 
-
 19.
 "Þú vart, hála,
 fyr hildings skipum
@@ -246,7 +224,6 @@ ok látt í fjarðar mynni fyrir;
 ræsis rekka
 er þú vildir Rán gefa,
 ef þér kœmit í þverst þvari." 
-
 20.
 "Duliðr ertu nú, Atli,
 draums kveð ek þér vera,
@@ -254,7 +231,6 @@ síga lætr þú brýnn fyr brár;
 móðir mín
 lá fyrir mildings skipum,
 ek drekkða Hlǫvarðs sonum í hafi. 
-
 21.
 Gneggja myndir þú, Atli,
 ef þú geldr né værir,
@@ -262,7 +238,6 @@ brettir sinn Hrímgerðr hala;
 aptarla hjarta,
 hygg ek at þitt, Atli, sé,
 þótt þú hafir reina rǫdd." 
-
 22.
 "Reini mun þér ek þykkja,
 ef þú reyna knátt
@@ -270,7 +245,6 @@ ok stíga ek á land af legi;
 ǫll muntu lemjask,
 ef mér er alhugat,
 ok sveigja þinn hala, Hrímgerðr." 
-
 23.
 "Atli, gakk þú á land,
 ef afli treystisk,
@@ -278,7 +252,6 @@ ok hittumk í vík Varins,
 rifja rétti
 er þú munt, rekkr, fá,
 ef þú mér í krymmur kømr." 
-
 24.
 "Munka ek ganga,
 áðr gumnar vakna
@@ -286,7 +259,6 @@ ok halda of vísa vǫrð;
 era mér ørvænt,
 nær óru kømr
 skass upp undir skipi." 
-
 25.
 "Vaki þú, Helgi,
 ok bœt við Hrímgerði,
@@ -294,7 +266,6 @@ er þú lézt hǫggvinn Hata;
 eina nótt
 kná hon hjá jǫfri sofa,
 þá hefir hon bǫlva bœtr." 
-
 26.
 "Loðinn heitir er þik skal eiga,
 leið ertu mannkyni,
@@ -302,7 +273,6 @@ sá býr í Þolleyju þurs,
 hundvíss jǫtunn,
 hraunbúa verstr,
 sá er þér makligr maðr." 
-
 27.
 "Hina vildu heldr, Helgi,
 er réð hafnir skoða
@@ -314,7 +284,6 @@ ok festi svá yðvarn flota;
 hon ein því veldr
 er ek eigi mák
 buðlungs mǫnnum bana." 
-
 28.
 "Heyrðu nú, Hrímgerðr,
 ef ek bœti harma þér,
@@ -322,7 +291,6 @@ segðu gørr grami:
 Var sú ein vætr
 er barg ǫðlings skipum,
 eða fóru þær fleiri saman?" 
-
 29.
 "Þrennar níundir meyja,
 þó reið ein fyrir,
@@ -333,7 +301,6 @@ dǫgg í djúpa dali,
 hagl í háva viðu;
 þaðan kømr með ǫldum ár;
 allt var mér þat leitt er ek leitk." 
-
 30.
 "Austr líttu nú, Hrímgerðr,
 ef þik lostna hefr
@@ -341,7 +308,6 @@ Helgi helstǫfum;
 á landi ok á vatni
 borgit er ǫðlings flota
 ok siklings mǫnnum it sama." 
-
 31.
 "Dagr er nú, Hrímgerðr,
 en þik dvalða hefir
@@ -349,7 +315,6 @@ Atli til aldrlaga;
 hafnar mark
 þykkir hlœgligt vera,
 þars þú í steins líki stendr." 
-
 Helgi konungr var allmikill hermaðr. 
 Hann kom til Eylima konungs 
 ok bað Svávu dóttur hans. 
@@ -375,7 +340,6 @@ unnustu Helga bróður síns,
 ok iðraðisk svá mjǫk at hann gekk á braut 
 villistígu suðr á lǫnd ok fann Helga bróður sinn. 
 Helgi kvað: 
-
 32.
 "Kom þú heill, Heðinn,
 hvat kanntu segja
@@ -385,7 +349,6 @@ Hví er þér, stillir,
 støkkt ór landi
 ok ert einn kominn
 oss at finna?" 
-
 33.
 Mik hefir myklu glœpr
 meiri sóttan:
@@ -393,7 +356,6 @@ Ek hefi kørna
 ina konungbornu
 brúði þína
 at bagarfulli." 
-
 34.
 "Sakask eigi þú,
 sǫnn munu verða
@@ -407,7 +369,6 @@ if er mér á því
 at ek aptr koma;
 þá má at góðu
 gørask slíkt, ef skal." 
-
 35.
 "Sagðir þú, Helgi,
 at Heðinn væri
@@ -417,7 +378,6 @@ ok gjafa stórra;
 sverð at rjóða
 en frið gefa
 fjándum þínum." 
-
 Þat kvað Helgi þvíat hann grunaði um feigð sína 
 ok þat at fylgjur hans hǫfðu vitjat Heðins, 
 þá er hann sá konuna ríða varginum. 
@@ -425,7 +385,6 @@ ok þat at fylgjur hans hǫfðu vitjat Heðins,
 er Helga hafði vǫll haslaðan á Sigarsvelli 
 á þriggja nátta fresti. 
 Þá kvað Helgi: 
-
 36.
 "Reið á vargi,
 er rǫkvit var,
@@ -437,7 +396,6 @@ Sigrlinnar sonr
 á Sigarsvǫllum." 
 Þar var orrosta mikil, 
 ok fekk þar Helgi banasár. 
-
 37.
 Sendi Helgi
 Sigar at ríða
@@ -447,7 +405,6 @@ biðr brálliga
 búna verða,
 ef hon vill finna
 fylki kvikvan. 
-
 38.
 "Mik hefir Helgi
 hingat sendan
@@ -457,7 +414,6 @@ sjálfa at mæla;
 hitta vilja,
 áðr ítrborinn
 ǫndu týndi." 
-
 39.
 "Hvat varð Helga
 Hjǫrvarðs syni?
@@ -467,7 +423,6 @@ ef hann sær um lék
 eða sverð um beit,
 þeim skal ek gumna
 grand of vinna." 
-
 40.
 "Fell hér í morgun
 at Frekasteini
@@ -477,7 +432,6 @@ baztr und sólu;
 ǫllum ráða,
 þótt þetta sinn
 þǫrfgi væri." 
-
 41.
 "Heil vertu, Sváva!
 Hug skaltu deila,
@@ -487,7 +441,6 @@ tjá buðlungi
 blœða undir;
 mér hefir hjǫrr komit
 hjarta it næsta. 
-
 42.
 Bið ek þik, Sváva,
 - brúðr, gráttattu -
@@ -497,7 +450,6 @@ at þú Heðni
 hvílu gørvir
 ok jǫfur ungan
 ástum leiðir." 
-
 43.
 "Mælt hafða ek þat
 í munarheimi,
@@ -507,7 +459,6 @@ myndiga ek lostig
 at liðinn fylki
 jǫfur ókunnan
 armi verja." 
-
 44.
 "Kysstu mik, Sváva!
 Kem ek eigi áðr
