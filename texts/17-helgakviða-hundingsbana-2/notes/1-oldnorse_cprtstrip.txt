@@ -17,7 +17,6 @@ hirðar Hundings konungs á laun.
 Hemingr, son Hundings konungs, var heima.  
 En er Helgi fór í brott 
 þá hitti hann hjarðarsvein ok kvað: 
-
 1.
 "Segðu Hemingi
 at Helgi man
@@ -34,7 +33,6 @@ En Helgi mátti eigi forðast annan
 veg en tók klæði ambáttar ok gekk at mala. 
 Þeir leituðu ok fundu eigi Helga. 
 Þá kvað Blindr inn bǫlvísi:
-
 2.
 "Hvǫss eru augu
 í Hagals þýju,
@@ -42,7 +40,6 @@ era þat karls ætt
 er á kvernum stendr,
 steinar rifna,
 støkkr lúðr fyrir. 
-
 3.
 Nú hefir hǫrð dœmi
 hildingr þegit,
@@ -53,7 +50,6 @@ hendi þeiri
 meðalkafli
 en mǫndultré." 
 Hagall svaraði ok kvað: 
-
 4.
 "Þat er lítil vá,
 þótt lúðr þrumi,
@@ -69,7 +65,6 @@ Systir er hon þeira
 Sigars ok Hǫgna,
 því hefir ǫtul augu
 Ylfinga man." 
-
 Undan komst Helgi ok fór á herskip. 
 Hann felldi Hunding konung 
 ok var síðan kallaðr Helgi Hundingsbani. 
@@ -81,7 +76,6 @@ Hans dóttir var Sigrún;
 hon var valkyrja ok reið lopt ok lǫg; 
 hon var Sváfa endrborin. 
 Sigrún reið at skipum Helga ok kvað: 
-
 5.
 "Hverir láta fljóta
 fley við bakka?
@@ -91,7 +85,6 @@ Hvers bíðið ér
 í Brunavágum?
 Hvert lystir yðr
 leið at kanna?" 
-
 6.
 "Hagall lætr fljóta
 fley við bakka,
@@ -101,7 +94,6 @@ bíðum byrjar
 í Brunavágum,
 austr lystir oss
 leið at kanna." 
-
 7.
 "Hvar hefir þú, hilmir,
 hildi vakða
@@ -111,7 +103,6 @@ Hví er brynja þín
 blóði stokkin?
 Hví skal und hjálmum
 hrátt kjǫt eta?" 
-
 8.
 "Þat vann næst nýs
 niðr Ylfinga
@@ -121,13 +112,11 @@ er ek bjǫrnu tók
 í Bragalundi
 ok ætt ara
 oddum saddak. 
-
 9.
 Nú er sagt, mær,
 hvaðan sakar gørðusk,
 því var á legi mér
 lítt steikt etit." 
-
 10.
 "Víg lýsir þú,
 varð fyr Helga
@@ -137,7 +126,6 @@ bar sókn saman,
 er sefa hefnduð
 ok busti blóð
 á brimis eggjar." 
-
 11.
 "Hvat vissir þú,
 at þeir sé,
@@ -147,7 +135,6 @@ Margir ro hvassir
 hildings synir
 ok ámunir
 ossum niðjum." 
-
 12.
 "Varka ek fjarri,
 folks oddviti,
@@ -157,7 +144,6 @@ grams aldrlokum;
 Sigmundar bur,
 er í valrúnum
 vígspjǫll segir. 
-
 13.
 Leit ek þik um sinn fyrr
 á langskipum,
@@ -169,7 +155,6 @@ nú vill dyljask
 dǫglingr fyr mér,
 en Hǫgna mær
 Helga kennir." 
-
 Granmarr hét ríkr konungr er bjó at Svarinshaugi. 
 Hann átti marga sonu: Hǫðbroddr, 
 annarr Guðmundr, þriði Starkaðr. 
@@ -177,14 +162,14 @@ Hǫðbroddr var í konungastefnu.
 Hann fastnaði sér Sigrúnu Hǫgnadóttur. 
 En er hon spyrr þat þá reið hon með valkyrjur 
 um lopt ok um lǫg at leita Helga. 
-Helgi var þá at Logafjǫllum ok hafði barizk við Hundingssonu. 
+Helgi var þá at Logafjǫllum 
+ok hafði barizk við Hundingssonu. 
 Þar felldi hann þá Álf ok Eyjólf, Hjǫrvarð 
 ok Hervarð, 
 ok var hann allvígmóðr ok sat undir Arasteini. 
 Þar hitti Sigrún hann ok rann á háls honum 
 ok kyssti hann ok sagði honum erendi sitt, 
 svá sem segir í Vǫlsungakviðu inni fornu: 
-
 14.
 Sótti Sigrún
 sikling glaðan,
@@ -194,13 +179,11 @@ kyssti ok kvaddi
 konung und hjálmi,
 þá varð hilmi
 hugr á vífi. 
-
 15.
 Fyrr lézk hon unna
 af ǫllum hug
 syni Sigmundar
 en hon sét hafði. 
-
 16.
 "Var ek Hǫðbroddi
 í her fǫstnuð,
@@ -210,13 +193,11 @@ eiga vildak;
 frænda reiði,
 hefi ek míns fǫður
 munráð brotit." 
-
 17.
 Nama Hǫgna mær
 of hug mæla,
 hafa kvazk hon Helga
 hylli skyldu. 
-
 18.
 "Hirð eigi þú
 Hǫgna reiði,
@@ -226,32 +207,43 @@ né illan hug
 at mér lifa;
 ætt áttu, en góða,
 er ek eigi sjámk." 
-
-Helgi samnaði þá miklum skipaher ok fór til Frekasteins, 
+Helgi samnaði þá miklum skipaher 
+ok fór til Frekasteins, 
 ok fengu í hafi ofviðri mannhætt. 
-Þá kvómu leiptr yfir þá, ok stóðu geislar í skipin. 
+Þá kvómu leiptr yfir þá, 
+ok stóðu geislar í skipin. 
 Þeir sá í loptinu, 
-at valkyrjur níu riðu, ok kenndu þeir Sigrúnu. 
+at valkyrjur níu riðu, 
+ok kenndu þeir Sigrúnu. 
 Þá lægði storminn, 
 ok kvómu þeir heilir til lands. 
-Granmarssynir sátu á bjargi nǫkkuru er skipin sigldu at landi. 
-Guðmundr hljóp á hest ok reið á njósn á bergit við hǫfnina. 
+Granmarssynir sátu á bjargi 
+nǫkkuru er skipin sigldu at landi. 
+Guðmundr hljóp á hest 
+ok reið á njósn á bergit við hǫfnina. 
 Þá hlóðu Vǫlsungar seglum. 
-Þá kvað Guðmundr, svá sem fyrr er ritat í Helgakviðu: 
+Þá kvað Guðmundr, 
+svá sem fyrr er ritat í Helgakviðu: 
 "Hverr er fylkir
 sá er flota stýrir
 ok feiknalið
 fœrir at landi?" 
 Sinfjǫtli Sigmundarson svaraði, 
-ok er þat enn ritat. Guðmundr reið heim með hersǫgu. 
+ok er þat enn ritat. 
+Guðmundr reið heim með hersǫgu. 
 Þá sǫmnuðu Granmarssynir her. 
 Kómu þar mergir konungar. 
-Þar var Hǫgni, faðir Sigrúnar, ok synir hans, Bragi ok Dagr. 
+Þar var Hǫgni, 
+faðir Sigrúnar, 
+ok synir hans, Bragi ok Dagr. 
 Þar var orrosta mikil, 
-ok fellu allir Granmarssynir ok allir þeira hǫfðingjar, 
-nema Dagr Hǫgnason fekk grið ok vann eiða Vǫlsungum. 
-Sigrún gekk í valinn ok hitti Hǫðbrodd at kominn dauða; hon kvað:
-
+ok fellu allir Granmarssynir 
+ok allir þeira hǫfðingjar, 
+nema Dagr Hǫgnason fekk grið 
+ok vann eiða Vǫlsungum. 
+Sigrún gekk í valinn 
+ok hitti Hǫðbrodd at kominn dauða; 
+hon kvað: 
 19.
 "Muna þér Sigrún
 frá Sevafjǫllum,
@@ -261,9 +253,9 @@ liðin er ævi
 - opt náir hrævi
 gránstóð gríðar -
 Granmars sona." 
-Þá hitti hon Helga ok varð allfegin. 
+Þá hitti hon Helga 
+ok varð allfegin. 
 Hann kvað: 
-
 20.
 Erat þér at ǫllu,
 alvitr, gefit,
@@ -273,7 +265,6 @@ fellu í morgun
 at Frekasteini
 Bragi ok Hǫgni,
 varð ek bani þeira. 
-
 21.
 En at Styrkleifum
 Starkaðr konungr,
@@ -283,7 +274,6 @@ Hrollaugs synir;
 grimmúðgastan,
 er barðisk bolr,
 var á brott hǫfuð. 
-
 22.
 Liggja at jǫrðu
 allra flestir
@@ -295,7 +285,6 @@ at þú at rógi
 ríkmenni vart." 
 Þá grét Sigrún. 
 Hann kvað: 
-
 23.
 "Huggastu, Sigrún,
 Hildr hefir þú oss verit;
@@ -304,7 +293,6 @@ vinnat skjǫldungar skǫpum."
 er liðir eru,
 ok knætta ek þér þó í faðmi felask." 
 Þetta kvað Guðmundr Granmarsson: 
-
 24.
 "Hverr er skjǫldungr
 sá er skipum stýrir,
@@ -315,7 +303,6 @@ gullinn fyr stafni?
 verpr vígroða
 um víkinga. 
 Sinfjǫtli kvað:
-
 25.
 "Hér má Hǫðbroddr
 Helga kenna,
@@ -325,7 +312,6 @@ hann hefir eðli
 ættar þinnar,
 arf Fjǫrsunga,
 und sik þrungit." 
-
 26.
 "Því fyrr skulu
 at Frekasteini
@@ -335,7 +321,6 @@ mál er, Hǫðbroddr,
 hefnd at vinna,
 ef vér lægra hlut
 lengi bárum." 
-
 27.
 "Fyrr mundu, Guðmundr,
 geitr um halda
@@ -345,7 +330,6 @@ hafa þér í hendi
 heslikylfu;
 þat er þér blíðara
 en brimis dómar. 
-
 28.
 "Þér er, Sinfjǫtli,
 sœmra myklu
@@ -355,7 +339,6 @@ en ónýtum
 orðum at bregðask,
 þótt hildingar
 heiptir deili. 
-
 29.
 Þykkit mér góðir
 Granmars synir,
@@ -367,16 +350,18 @@ at hug hafa
 hjǫrum at bregða;
 eru hildingar
 hølzti snjallir." 
-
-Helgi fekk Sigrúnar, ok áttu þau sonu. 
+Helgi fekk Sigrúnar, 
+ok áttu þau sonu. 
 Var Helgi eigi gamall. 
-Dagr Hǫgnason blótaði Óðin til fǫðurhefnda. 
+Dagr Hǫgnason blótaði 
+Óðin til fǫðurhefnda. 
 Óðinn léði Dag geirs síns. 
-Dagr fann Helga mág sinn þar sem heitir at Fjǫturlundi. 
+Dagr fann Helga mág sinn 
+þar sem heitir at Fjǫturlundi. 
 Hann lagði í gǫgnum Helga með geirnum. 
 Þar fell Helgi, 
-en Dagr reið til fjalla ok sagði Sigrúnu tíðindi: 
-
+en Dagr reið til fjalla 
+ok sagði Sigrúnu tíðindi: 
 30.
 "Trauðr em ek, systir,
 trega þér at segja,
@@ -388,7 +373,6 @@ buðlungr sá er var
 beztr í heimi
 ok hildingum
 á hálsi stóð." 
-
 31.
 "Þik skyli allir
 eiðar bíta,
@@ -398,7 +382,6 @@ at inu ljósa
 Leiptrarvatni
 ok at úrsvǫlum
 Unnarsteini. 
-
 32.
 Skríðiat þat skip
 er und þér skríði,
@@ -408,7 +391,6 @@ Rennia sá marr
 er und þér renni,
 þóttú fjándr þína
 forðask eigir. 
-
 33.
 Bítia þér þat sverð
 er þú bregðir,
@@ -423,7 +405,6 @@ ok alls gamans,
 hefðir eigi mat,
 nema á hræjum spryngir." 
 Dagr kvað:
-
 34.
 "Ær ertu, systir,
 ok ørvita,
@@ -433,7 +414,6 @@ Einn veldr Óðinn
 ǫllu bǫlvi,
 þvíat með sifjungum
 sakrúnar bar. 
-
 35.
 Þér býðr bróðir
 bauga rauða,
@@ -443,7 +423,6 @@ hafðu hálfan heim
 harms at gjǫldum,
 brúðr baugvarið,
 ok burir þínir." 
-
 36.
 "Sitka ek svá sæl
 at Sefafjǫllum,
@@ -455,7 +434,6 @@ renni und vísa
 Vígblær þinig,
 gullbitli vanr,
 knega ek grami fagna. 
-
 37.
 Svá hafði Helgi
 hrædda gǫrva
@@ -465,7 +443,6 @@ sem fyr úlfi
 óðar rynni
 geitr af fjalli
 geiskafullar. 
-
 38.
 Svá bar Helgi
 af hildingum
@@ -477,12 +454,10 @@ er øfri ferr
 ǫllum dýrum,
 ok horn glóa
 við himin sjalfan." 
-
 Haugr var gjǫrr eptir Helga. 
 En er hann kom til Valhallar 
 þá bauð Óðinn honum ǫllu at ráða með sér. 
 Helgi kvað: 
-
 39.
 "Þú skalt, Hundingr,
 hverjum manni
@@ -491,12 +466,12 @@ ok funa kynda,
 hunda binda,
 hesta gæta,
 gefa svínum soð,
-áðr sofa gangir." 
-
-Ambótt Sigrúnar gekk um aptan hjá haugi Helga 
-ok sá at Helgi reið til haugsins með marga menn. 
+áðr sofa gangir."
+Ambótt Sigrúnar gekk 
+um aptan hjá haugi Helga 
+ok sá at Helgi reið 
+til haugsins með marga menn. 
 Ambótt kvað: 
-
 40.
 "Hvárt eru þat svik ein
 er ek sjá þykkjumk
@@ -506,7 +481,6 @@ er jóa yðra
 oddum keyrið,
 eða er hildingum
 heimfǫr gefin?" 
-
 41.
 "Era þat svik ein
 er þú sjá þykkisk,
@@ -516,8 +490,8 @@ né aldar rof,
 oddum keyrim,
 né er hildingum
 heimfǫr gefin." 
-Heim gekk ambótt ok sagði Sigrúnu: 
-
+Heim gekk ambótt 
+ok sagði Sigrúnu: 
 42.
 "Út gakk þú, Sigrún
 frá Sevafjǫllum,
@@ -529,8 +503,8 @@ dólgspor dreyra,
 dǫglingr bað þik,
 at þú sárdropa
 svefja skyldir." 
-Sigrún gekk í hauginn til Helga ok kvað: 
-
+Sigrún gekk í hauginn 
+til Helga ok kvað: 
 43.
 "Nú em ek svá fegin
 fundi okkrum
@@ -540,7 +514,6 @@ er val vitu,
 varmar bráðir,
 eða dǫgglitir
 dagsbrún sjá. 
-
 44.
 Fyrr vil ek kyssa
 konung ólifðan
@@ -554,7 +527,6 @@ hendr úrsvalar
 Hǫgna mági.
 Hvé skal ek þér, buðlungr,
 þess bót of vinna?" 
-
 45.
 "Ein veldr þú, Sigrún
 frá Sevafjǫllum,
@@ -568,7 +540,6 @@ hvert fellr blóðugt
 á brjóst grami,
 úrsvalt, innfjálgt,
 ekka þrungit. 
-
 46.
 Vel skulum drekka
 dýrar veigar,
@@ -583,7 +554,6 @@ byrgðar í haugi,
 lofða dísir,
 hjá oss liðnum." 
 Sigrún bjó sæing í hauginum. 
-
 47.
 "Hér hefi ek þér, Helgi,
 hvílu gǫrva
@@ -593,7 +563,6 @@ vil ek þér í faðmi,
 fylkir, sofna
 sem ek lofðungi
 lifnum myndak." 
-
 48.
 "Nú kveð ek enskis
 ǫrvænt vera,
@@ -605,7 +574,6 @@ hvít, í haugi,
 Hǫgna dóttir,
 ok ertu kvik,
 in konungborna. 
-
 49.
 Mál er mér at ríða
 roðnar brautir,
@@ -615,13 +583,13 @@ skal ek fyr vestan
 vindhjálms brúar,
 áðr Salgofnir
 sigrþjóð veki." 
-
 Þeir Helgi riðu leið sína, 
 en þær fóru heim til bœjar. 
-Annan aptan lét Sigrún ambótt halda vǫrð á hauginum. 
+Annan aptan lét Sigrún ambótt 
+halda vǫrð á hauginum. 
 En at dagsetri, 
-er Sigrún kom til haugsins, hon kvað: 
-
+er Sigrún kom til haugsins, 
+hon kvað: 
 50.
 "Kominn væri nú,
 ef koma hygði,
@@ -633,7 +601,6 @@ er á asklimum
 ernir sitja
 ok drífr drótt ǫll
 draumþinga til." 
-
 51.
 "Verðu eigi svá œr
 at ein farir,
@@ -643,10 +610,13 @@ verða ǫflgari
 allir á nóttum
 dauðir dólgar, mær,
 en um daga ljósa." 
-
 Sigrún varð skammlíf af harmi ok trega. 
-Þat var trúa í forneskju at menn væri endrbornir, 
+Þat var trúa í forneskju 
+at menn væri endrbornir, 
 en þat er nú kǫlluð kerlingavilla. 
-Helgi ok Sigrún er kallat at væri endrborin. 
-Hét hann þá Helgi Haddingjaskati, en hon Kára Hálfdanardóttir, 
-svá sem kveðit er í Káruljóðum, ok var hon valkyrja. 
+Helgi ok Sigrún er kallat 
+at væri endrborin. 
+Hét hann þá Helgi Haddingjaskati, 
+en hon Kára Hálfdanardóttir, 
+svá sem kveðit er í Káruljóðum, 
+ok var hon valkyrja. 

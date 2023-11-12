@@ -29,6 +29,7 @@ def process_input_string(driver, runa_string_in):
         soup = BeautifulSoup(html, 'html.parser')
         runo_string = soup.find('h4', {'class': 'runir-nidurstada'}).contents[0]
         input_field.clear()
+        print(runo_string)
     time.sleep(0.5)
     with open('3-futhark_raw.txt', 'a') as output_file:
         output_file.write(runo_string + '\n')
