@@ -17,8 +17,9 @@ def remove_punctuation(text):
     return text.translate(translator)
 ##########################################
 def process_input_string(driver, runa_string_in):
-    if runa_string_in.isdigit():
+    if runa_string_in.isnumeric():
         runo_string = runa_string_in
+        print(runo_string)
     else:
         input_field = driver.find_element(By.ID, 'inntak')
         input_field.send_keys(runa_string_in)
