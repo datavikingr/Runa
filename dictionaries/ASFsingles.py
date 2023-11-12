@@ -1,0 +1,62 @@
+#!python3
+
+import json
+
+letter_swap = {
+'f': 'ᚠ',
+'F': 'ᚠ',
+'u': 'ᚢ',
+'U': 'ᚢ',
+'o': 'ᚩ',
+'O': 'ᚩ',
+'r': 'ᚱ',
+'R': 'ᚱ',
+'c': 'ᚳ',
+'C': 'ᚳ',
+'g': 'ᚷ',
+'G': 'ᚷ',
+'w': 'ᚹ',
+'W': 'ᚹ',
+'h': 'ᚻ',
+'H': 'ᚻ',
+'n': 'ᚾ',
+'N': 'ᚾ',
+'i': 'ᛁ',
+'I': 'ᛁ',
+'j': 'ᛡ',
+'J': 'ᛡ',
+'p': 'ᛈ',
+'P': 'ᛈ',
+'x': 'ᛉ',
+'X': 'ᛉ',
+'s': 'ᚴ',
+'S': 'ᚴ',
+'z': 'ᛋ',
+'Z': 'ᛋ',
+'t': 'ᛏ',
+'T': 'ᛏ',
+'b': 'ᛒ',
+'B': 'ᛒ',
+'e': 'ᛖ',
+'E': 'ᛖ',
+'m': 'ᛗ',
+'M': 'ᛗ',
+'l': 'ᛚ',
+'L': 'ᛚ',
+'d': 'ᛞ',
+'D': 'ᛞ',
+'a': 'ᚪ',
+'A': 'ᚪ',
+'y': 'ᚣ',
+'Y': 'ᚣ',
+'k': 'ᛣ',
+'K': 'ᛣ',
+'q': 'ᛢ',
+'Q': 'ᛢ',
+'v': 'ᚢ',
+'V': 'ᚢ'
+}
+# Note: ᚯ is found in both medieval  and dalrune inventories, but not that of the younger futhark. ᚬ is the letter we're looking for. So that's fun.
+
+with open('asfsingleswap.json', 'w') as f:
+    json.dump(letter_swap, f)

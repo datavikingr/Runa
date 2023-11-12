@@ -5,7 +5,6 @@ Sigurðr var auðkenndr.
 Hann hitti mann at máli úti fyrir hǫllini; 
 sá nefndist Geitir. 
 Þá kvaddi Sigurðr hann máls ok spyrr: 
-
 1.
 "Hverr byggir hér
 borgir þessar?
@@ -15,7 +14,6 @@ Hvat þann þjóðkonung
 gumna stjóri,
 sá er fastri ræðr
 foldu ok þegnum."
-
 2.
 "Er horskr konungr
 heima í landi?
@@ -25,7 +23,6 @@ Máls er þarfi
 maðr ókunnigr,
 vil ek fljótliga
 finna Grípi."
-
 3.
 "Þess mun glaðr konungr
 Geiti spyrja,
@@ -35,7 +32,6 @@ er máls kveðr Grípi.“
 borinn Sigmundi,
 en Hjǫrdís er
 hilmis móðir."
-
 4.
 Þá gekk Geitir
 Grípi at segja:
@@ -45,7 +41,6 @@ hann er ítarligr
 at áliti;
 sá vill, fylkir,
 fund þinn hafa."
-
 5.
 Gengr ór skála
 skatna dróttinn
@@ -55,7 +50,6 @@ hilmi komnum:
 væri sœmra fyrr,
 en þú, Geitir, tak
 við Grana sjálfum."
-
 6.
 Mæla námu
 ok margt hjala,
@@ -65,7 +59,6 @@ rekkar fundusk.
 móðurbróðir,
 hvé mun Sigurði
 snúna ævi?"
-
 7.
 "Þú munt maðr vera
 mæztr und sólu
@@ -75,7 +68,6 @@ gjǫfull af gulli,
 en gløggr flugar,
 ítr áliti
 ok í orðum spakr."
-
 8.
 "Segðu, gegn konungr,
 gerr en ek spyrja,
@@ -85,7 +77,6 @@ Hvat mun fyrst gørask
 til farnaðar,
 þá er ór garði emk
 genginn þínum?"
-
 9.
 "Fyrst muntu, fylkir,
 fǫður um hefna,
@@ -95,7 +86,6 @@ alls harms reka;
 Hundings sonu
 snjalla fella;
 muntu sigr hafa."
-
 10.
 "Segðu, ítr konungr,
 ættingi, mér
@@ -105,7 +95,6 @@ Sérðu Sigurðar
 snǫr brǫgð fyrir,
 þau er hæst fara
 und himinskautum?"
-
 11.
 "Muntu einn vega
 orm inn frána,
@@ -115,7 +104,6 @@ orm inn frána,
 at bana verða
 Regin ok Fáfni;
 rétt segir Grípir."
-
 12.
 "Auðr mun œrinn,
 ef ek eflik svá
@@ -125,7 +113,6 @@ leið at huga
 ok lengra seg:
 Hvat mun enn vera
 ævi minnar?"
-
 13.
 "Þú munt finna
 Fáfnis bœli
@@ -135,7 +122,6 @@ gulli hlœða
 á Grana bógu;
 ríðr þú til Gjúka,
 gramr vígrisinn."
-
 14.
 "Enn skaltu hilmi
 í hugaðsrœðu,
@@ -145,7 +131,6 @@ gestr em ek Gjúka,
 ok ek geng þaðan;
 hvat mun enn vera
 ævi minnar?"
-
 15.
 "Sefr á fjalli
 fylkis dóttir
@@ -155,7 +140,6 @@ eptir bana Helga;
 hvǫssu sverði,
 brynju rísta
 með bana Fáfnis."
-
 16.
 "Brotin er brynja,
 brúðr mæla tekr,
@@ -165,7 +149,6 @@ hvat mun snót at heldr
 við Sigurð mæla,
 þat er at farnaði
 fylki verði?"
-
 17.
 "Hon mun ríkjum þér
 rúnar kenna,
@@ -175,7 +158,6 @@ ok á manns tungu
 mæla hverja,
 líf með lækning;
 lifðu heill, konungr."
-
 18.
 "Nú er því lokit,
 numin eru frœði,
@@ -185,7 +167,6 @@ leið at huga
 ok lengra seg:
 Hvat mun meirr vera
 minnar ævi?"
-
 19.
 "Þú munt hitta
 Heimis byggðir
@@ -195,7 +176,6 @@ farit er, Sigurðr,
 þats ek fyrir vissak;
 skala fremr en svá
 fregna Grípi."
-
 20.
 "Nú fær mér ekka
 orð þatstu mæltir,
@@ -205,7 +185,6 @@ veiztu ofmikit
 angr Sigurði,
 því þú, Grípir, þat
 gerra segja."
-
 21.
 "Lá mér um œsku
 ævi þinnar
@@ -215,7 +194,6 @@ rétt em ek
 ráðspakr taliðr,
 né in heldr framvíss,
 farit þats ek vissak."
-
 22.
 "Mann veit ek engi
 fyr mold ofan,
@@ -225,7 +203,6 @@ skalattu leyna,
 þótt ljót sé
 eða mein gørisk
 á mínum hag."
-
 23.
 "Era með lǫstum
 lǫgð ævi þér;
@@ -235,7 +212,6 @@ láttu, inn ítri, þat,
 meðan ǫld lifir,
 naddéls boði,
 nafn þitt vera."
-
 24.
 "Verst hyggjum því,
 verðr at skiljask
@@ -245,7 +221,6 @@ leið vísaðú,
 lagt er allt fyrir,
 mærr, mér, ef þú vilt,
 móðurbróðir."
-
 25.
 "Nú skal Sigurði
 segja eǫrva,
@@ -255,7 +230,6 @@ muntu víst vita
 at vætki lýgr,
 dœgr eitt er þér
 dauði ætlaðr."
-
 26.
 "Vilkat ek reiði
 ríks þjóðkonungs,
@@ -265,7 +239,6 @@ nú vill víst vita,
 þótt viltki sé,
 hvat á sýnt Sigurðr
 sér fyr hǫndum."
-
 27.
 "Fljóð er at Heimis
 fagrt álitum,
@@ -275,7 +248,6 @@ dóttir Buðla,
 en dýrr konungr
 harðugðigt man
 Heimir fœðir."
-
 28.
 "Hvat er mik at því,
 þótt mær sé,
@@ -285,7 +257,6 @@ fœdd at Heimis?
 gǫrva segja,
 þvíat þú ǫll um sér
 ørlǫg fyrir."
-
 29.
 "Hon firrir þik
 flestu gamni,
@@ -295,7 +266,6 @@ svefn þú né sefr
 né um sakar dœmir,
 gáraðu manna
 nema þú mey sér."
-
 30.
 "Hvat mun til líkna
 lagt Sigurði?
@@ -305,7 +275,6 @@ mun ek mey ná
 mundi kaupa,
 þá ina fǫgru
 fylkis dóttur?"
-
 31.
 "It munuð alla
 eiða vinna
@@ -315,7 +284,6 @@ verit hefr þú Gjúka
 gestr eina nótt,
 mantattu horska
 Heimis fóstru."
-
 32.
 "Hvárt er þá, Grípir,
 get þú þess fyr mér,
@@ -325,7 +293,6 @@ er ek skal við mey þá
 málum slíta,
 er ek alls hugar
 unna þóttumk?"
-
 33.
 "Þú verðr, siklingr,
 fyr svikum annars,
@@ -335,7 +302,6 @@ mun bjóða þér
 bjarthaddat man,
 dóttur sína,
 dregr hon vél at gram."
-
 34.
 "Mun ek við þá Gunnar
 gørva hleyti
@@ -345,7 +311,6 @@ Fullkvæni þá
 fylkir væri,
 ef meintregar
 mér angraðit."
-
 35.
 "Þik mun Grímhildr
 gǫrva véla,
@@ -355,7 +320,6 @@ Gunnari til handa,
 Gotna dróttni;
 heitr þú fjótliga fǫr
 fylkis móður."
-
 36.
 "Mein eru fyr hǫndum,
 má ek líta þat,
@@ -365,7 +329,6 @@ ef ek skal mærrar
 meyjar biðja
 ǫðrum til handa,
 þeirar ek unna vel."
-
 37.
 "Ér munuð allir
 eiða vinna
@@ -375,7 +338,6 @@ en þú, gramr, þriði,
 er á leið eruð,
 Gunnar ok þú;
 Grípir lýgr eigi."
-
 38.
 "Hví gegnir þat?
 Hví skulum skipta
@@ -385,7 +347,6 @@ er á leið erum?
 fylgja annat,
 atalt með ǫllu;
 enn segðu, Grípir."
-
 39.
 "Lit hefir þú Gunnars
 ok læti hans,
@@ -395,7 +356,6 @@ mundu fastna þér
 framlundaða
 fóstru Heimis;
 sér vætr fyr því."
-
 40.
 "Verst hyggjum því,
 vándr munk heitinn,
@@ -405,7 +365,6 @@ vilda ek eigi
 vélum beita
 jǫfra brúði,
 er ek œzta veitk."
-
 41.
 "Þú munt hvíla,
 hers oddviti,
@@ -415,7 +374,6 @@ sem þín móðir sé;
 meðan ǫld lifir,
 þjóðar þengill,
 þitt nafn vera."
-
 42.
 "Mun góða kván
 Gunnarr eiga
@@ -425,7 +383,6 @@ mér segðu, Grípir,
 þegns brúðr hjá mér
 snarlynd sofit?
 Slíks erut dœmi."
-
 43.
 "Saman munu brullaup
 bæði drukkin
@@ -435,7 +392,6 @@ Sigurðar ok Gunnars
 er it heim komið,
 hefr hvárr fyr því
 hyggju sína."
-
 44.
 "Hvé mun at ynði
 eptir verða
@@ -445,7 +401,6 @@ mun Gunnari
 til gamans ráðit
 síðan verða
 eða sjalfum mér?"
-
 45.
 "Minnir þik eiða,
 máttu þegja þó,
@@ -455,7 +410,6 @@ en Brynhildr þykkisk,
 brúðr, vargefin,
 snót fiðr vélar
 sér at hefndum."
-
 46.
 "Hvat mun at bótum
 brúðr sú taka,
@@ -465,7 +419,6 @@ Hefir snót af mér
 svarna eiða,
 enga efnda,
 en unað lítit."
-
 47.
 "Mun hon Gunnari
 gǫrva segja,
@@ -475,7 +428,6 @@ eiðum þyrmðir,
 af ǫllum hug,
 Gjúka arfi,
 á gram trúði."
-
 48.
 "Hvat er þá, Grípir,
 get þú þess fyr mér,
@@ -485,7 +437,6 @@ eða lýgr á mik
 lofsæl kona
 ok á sjálfa sik?
 Segðu, Grípir, þat."
-
 49.
 "Mun fyr reiði
 rík brúðr við þik
@@ -495,7 +446,6 @@ viðr þú góðri
 grand aldrigi,
 þó ér víf konungs
 vélum beittuð."
-
 50.
 "Mun horskr Gunnarr
 at hvǫtun hennar
@@ -505,7 +455,6 @@ Munu synir Gjúka
 af sifjugum mér
 eggjar rjóða?
 Enn segðu, Grípir."
-
 51.
 "Þá er Guðrúnu
 grimmt um hjarta,
@@ -515,7 +464,6 @@ ok at øngu verðr
 ynði síðan
 vitru vífi;
 veldr því Grímhildr. 
-
 52.
 Því skal hugga þik,
 hers oddviti,
@@ -525,7 +473,6 @@ Munat mætri maðr
 á mold koma
 und sólar sjǫt,
 en þú, Sigurðr, þykkir."
-
 53.
 "Skiljumk heilir,
 munat skǫpum vinna,
