@@ -11,7 +11,6 @@ Fáfnir hristi sik ok barði hǫfði ok sporði.
 Sigurðr hljóp ór grǫfinni, ok sá þá hvárr annan.
 Frá dauða Fáfnis 
 Fáfnir kvað:
-
 1.
 "Sveinn ok sveinn,
 hverjum ertu sveini um borinn?
@@ -24,7 +23,6 @@ fyrir því at þat var trúa þeira í forneskju
 at orð feigs manns mætti mikit, 
 ef hann bǫlvaði óvin sínum með nafni. 
 Hann kvað: 
-
 2.
 "Gǫfugt dýr ek heiti,
 en ek gengit hefk
@@ -33,13 +31,11 @@ fǫður ek ákka
 sem fira synir,
 æ geng ek einn saman." 
 Fáfnir kvað:
-
 3.
 "Veiztu, ef fǫður né áttat
 sem fira synir,
 af hverju vartu undri alinn?" 
 Sigurðr kvað:
-
 4.
 "Ætterni mitt
 kveð ek þér ókunnigt vera
@@ -48,7 +44,6 @@ Sigurðr ek heiti,
 - Sigmundr hét minn faðir -
 er hefk þik vápnum vegit." 
 Fáfnir kvað:
-
 5.
 "Hverr þik hvatti,
 hví hvetjask lézt,
@@ -57,7 +52,6 @@ Inn fráneygi sveinn,
 þú áttir fǫður bitran,
 á burnu skjór á skeið." 
 Sigurðr kvað:
-
 6.
 "Hugr mik hvatti,
 hendr mér fulltýðu
@@ -66,7 +60,6 @@ fár er hvatr
 er hrøðask tekr,
 ef í barnœsku er blauðr." 
 Fáfnir kvað:
-
 7.
 "Veit ek, ef þú vaxa næðir
 fyr þinna vina brjósti,
@@ -75,7 +68,6 @@ nú ertu haptr
 ok hernuminn,
 æ kveða bandingja bifask." 
 Sigurðr kvað:
-
 8.
 "Því bregðr þú nú mér, Fáfnir,
 at til fjarri sják
@@ -84,7 +76,6 @@ eigi em ek haptr,
 þótt ek væra hernumi;
 þú fannt at ek laus lifi." 
 Fáfnir kvað:
-
 9.
 "Heiptyrði ein
 telr þú þér í hvívetna,
@@ -93,7 +84,6 @@ it gjalla gull
 ok it glóðrauða fé,
 þér verða þeir baugar at bana." 
 Sigurðr kvað:
-
 10.
 "Fé ráða
 skal fyrða hverr
@@ -102,7 +92,6 @@ skal fyrða hverr
 skal alda hverr
 fara til heljar heðan." 
 Fáfnir kvað:
-
 11.
 "Norna dóm
 þú munt fyr nesjum hafa
@@ -111,7 +100,6 @@ ok ósvinns apa;
 ef í vindi rœr;
 allt er feigs forað." 
 Sigurðr kvað:
-
 12.
 "Segðu mér, Fáfnir,
 alls þik fróðan kveða
@@ -120,7 +108,6 @@ Hverjar ro þær nornir
 er nauðgǫnglar ro
 ok kjósa mœðr frá mǫgum?" 
 Fáfnir kvað:
-
 13.
 "Sundrbornar mjǫk
 hygg ek at nornir sé,
@@ -129,7 +116,6 @@ sumar eru áskunngar,
 sumar álfkunngar,
 sumar dœtr Dvalins." 
 Sigurðr kvað:
-
 14.
 "Segðu mér þat, Fáfnir,
 alls þik fróðan kveða
@@ -138,7 +124,6 @@ hvé sá hólmr heitir
 er blanda hjǫrlegi
 Surtr ok æsir saman." 
 Fáfnir kvað:
-
 15.
 "Óskópnir hann heitir,
 en þar ǫll skulu
@@ -146,7 +131,6 @@ geirum leika goð;
 Bilrǫst brotnar,
 er þeir á brott fara,
 ok svima í móðu marir." 
-
 16.
 Ægishjálm
 bar ek um alda sonum,
@@ -155,7 +139,6 @@ einn rammari
 hugðumk ǫllum vera,
 fannka ek svá marga mǫgu." 
 Sigurðr kvað:
-
 17.
 "Ægishjálmr
 bergr einungi,
@@ -164,13 +147,11 @@ hvars skulu vreiðir vega;
 er með fleirum kømr
 at engi er einna hvatastr." 
 Fáfnir kvað:
-
 18.
 "Eitri ek fnœsta,
 er ek á arfi lá
 miklum míns fǫður." 
 Sigurðr kvað:
-
 19.
 "Inn fráni ormr,
 þú gørðir fræs mikla
@@ -179,7 +160,6 @@ heipt at meiri
 verðr hǫlða sonum
 at þann hjálm hafi." 
 Fáfnir kvað:
-
 20.
 "Ræð ek þér nú, Sigurðr,
 en þú ráð nemir
@@ -188,7 +168,6 @@ it gjalla gull
 ok it glóðrauða fé,
 þér verða þeir baugar at bana." 
 Sigurðr kvað:
-
 21.
 "Ráð er þér ráðit,
 en ek ríða mun
@@ -197,7 +176,6 @@ en þú, Fáfnir, ligg
 í fjǫrbrotum,
 þar er þik Hel hafi." 
 Fáfnir kvað:
-
 22.
 "Reginn mik réð,
 hann þik ráða mun,
@@ -208,7 +186,6 @@ hygg ek at Fáfnir myni;
 Reginn var á brott horfinn meðan Sigurðr vá Fáfni, 
 ok kom þá aptr er Sigurðr strauk blóð af sverðinu. 
 Reginn kvað: 
-
 23.
 "Heill þú nú, Sigurðr,
 nú hefir þú sigr vegit
@@ -217,7 +194,6 @@ manna þeira
 er mold troða
 þik kveð ek óblauðastan alinn." 
 Sigurðr kvað:
-
 24.
 "Þat er óvíst at vita,
 þá er komum allir saman,
@@ -227,7 +203,6 @@ margr er sá hvatr
 er hjǫr né rýðr
 annars brjóstum í." 
 Reginn kvað:
-
 25.
 "Glaðr ertu nú, Sigurðr,
 ok gagni feginn,
@@ -236,7 +211,6 @@ bróður minn
 hefir þú benjaðan,
 ok veld ek þó sjálfr sumu." 
 Sigurðr kvað:
-
 26.
 "Þú því rétt
 er ek ríða skyldak
@@ -248,7 +222,6 @@ nema þú frýðir mér hvats hugar."
 ór honum með sverði er Riðill heitir, 
 ok þá drakk hann blóð ór undinni eptir. 
 Reginn kvað:
-
 27.
 "Sittu nú, Sigurðr,
 en ek mun sofa ganga,
@@ -257,7 +230,6 @@ eiskǫld
 ek vil etin láta
 eptir þenna dreyra drykk." 
 Sigurðr kvað:
-
 28.
 "Fjarri þú gekkt,
 meðan ek á Fáfni rauðk
@@ -266,7 +238,6 @@ afli mínu
 atta ek við orms megin,
 meðan þú í lyngvi látt." 
 Reginn kvað:
-
 29.
 "Lengi liggja
 létir þú þann lyngvi í
@@ -275,7 +246,6 @@ ef þú sverðs né nytir,
 þess er ek sjálfr gørða,
 ok þíns ins hvassa hjǫrs." 
 Sigurðr kvað:
-
 30.
 "Hugr er betri
 en sé hjǫrs megin,
@@ -283,7 +253,6 @@ hvars vreiðir skulu vega,
 þvíat hvatan mann
 ek sé harðliga vega
 með slævu sverði sigr. 
-
 31.
 "Hvǫtum er betra
 en sé óhvǫtum
@@ -301,7 +270,6 @@ En er hjartablóð Fáfnis kom á tungu honum,
 ok skilði hann fuglsrǫdd. 
 Hann heyrði at igður klǫkuðu á hrísinum. 
 Igðan kvað: 
-
 32.
 "Þar sitr Sigurðr
 sveita stokkinn,
@@ -312,7 +280,6 @@ spillir bauga,
 ef hann fjǫrsega
 fránan æti." 
 Ǫnnur kvað:
-
 33.
 "Þar liggr Reginn,
 ræðr um við sik,
@@ -323,7 +290,6 @@ rǫng orð saman,
 vill bǫlva smiðr
 bróður hefna." 
 Þriðja kvað:
-
 34.
 "Hǫfði skemmra
 láti hann inn hára þul
@@ -332,7 +298,6 @@ fara til heljar heðan;
 þá kná hann einn ráða,
 fjǫlð, því er und Fáfni lá." 
 In fjórða kvað:
-
 35.
 Horskr þœtti mér,
 ef hafa kynni
@@ -343,7 +308,6 @@ ok hugin gleddi;
 þar er mér úlfs vón
 er ek eyru sék." 
 Fimmta kvað:
-
 36.
 "Erat svá horskr
 hildimeiðr
@@ -354,7 +318,6 @@ ef hann bróður lætr
 en hann ǫðrum hefir
 aldrs of synjat." 
 Sétta kvað:
-
 37.
 "Mjǫk er ósviðr,
 ef hann enn sparir
@@ -363,7 +326,6 @@ fjánda inn fólkská,
 er hann ráðinn hefr;
 kannat hann við slíku at sjá." 
 Sjaunda kvað:
-
 38.
 "Hǫfði skemmra
 láti hann þann inn hrímkalda jǫtun
@@ -372,7 +334,6 @@ ok af baugum búa;
 þess er Fáfnir réð
 einvaldi vera." 
 Sigurðr kvað:
-
 39.
 "Verða svá rík skǫp
 at Reginn skyli
@@ -385,7 +346,6 @@ ok þá át hann Fáfnis hjarta
 ok drakk blóð þeira beggja, 
 Regins ok Fáfnis. 
 Þá heyrði Sigurðr hvar igður mæltu: 
-
 40.
 "Bitt þú, Sigurðr,
 bauga rauða;
@@ -395,7 +355,6 @@ mey veit ek eina
 miklu fegrsta,
 gulli gœdda,
 ef þú geta mættir." 
-
 41.
 Liggja til Gjúka
 grœnar brautir,
@@ -405,7 +364,6 @@ fólklíðǫndum;
 dóttur alna,
 þá mundu, Sigurðr,
 mundi kaupa." 
-
 42.
 Salr er á há
 Hindarfjalli,
@@ -415,7 +373,6 @@ eldi sveipinn;
 halir um gǫrvan
 ór ódøkkum
 Ógnar ljóma. 
-
 43.
 "Veit ek á fjalli
 fólkvitr sofa,
@@ -425,7 +382,6 @@ Yggr stakk þorni,
 aðra felldi
 hǫr-Gefn hali
 en hafa vildi. 
-
 44.
 Knáttu, mǫgr, sjá
 mey und hjálmi,

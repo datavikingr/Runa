@@ -79,7 +79,7 @@ driver.quit()
 ##########################################
 # Fourth Pass: Letter/rune Typos
 ##########################################
-with open('dictionaries/letterswap.json') as f:
+with open('dictionaries/yf_letterswap.json') as f:
     ls_dict = json.load(f)
 with open('3-futhark_raw.txt', 'r') as g:
     input_text = g.read()
@@ -90,7 +90,7 @@ with open('4-futhark_allrunes.txt', 'w') as f:
 ##########################################
 # Fifth Pass: Proper spell check
 ##########################################
-with open('dictionaries/spellcheck.json') as f:
+with open('dictionaries/yf_spellcheck.json') as f:
     sc_dict = json.load(f)
 with open('4-futhark_allrunes.txt', 'r') as f:
     lines = f.readlines()
