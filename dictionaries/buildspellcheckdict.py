@@ -97,10 +97,11 @@ spell_check = {
 'ᛅᛚᛏᚱᛅᛁ': 'ᛅᛚᛏᚱᛁ',
 'ᚴᚱᛁᛏᚱ': 'ᚴᚱᛁᛏᛦ',
 'ᚢᛅᚾᛅᛦ': 'ᚢᚬᚾᛅᛦ',
+'ᚴᚢᛅᛏ': 'ᚴᚢᛅᚦ',
 'ᛅᚢᚦᚱ': 'ᛅᚢᚦᛦ'
 }
 
-with open('spellcheck.json', 'w') as f:
+with open('yf_spellcheck.json', 'w') as f:
     json.dump(spell_check, f)
 
 #################################################
