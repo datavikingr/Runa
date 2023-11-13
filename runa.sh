@@ -28,7 +28,7 @@ function funcinput() {
         python3 tools/singlerun.py
         python3 tools/asf_transliterate.py
         cat oldnorse_input.txt > "./texts/$foldername/ON-Lat.txt"
-        cat "11-YF-FINAL.txt".txt > "./texts/$foldername/ON-YF.txt"
+        cat "11-YF-FINAL.txt" > "./texts/$foldername/ON-YF.txt"
         cat english_input.txt > "./texts/$foldername/EN-Lat.txt"
         cat "10-ASF-FINAL.txt" > "./texts/$foldername/EN-ASF.txt"
         mv *.txt "./texts/$foldername/notes/"
