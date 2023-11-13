@@ -1,5 +1,13 @@
 #/bin/bash
 
+function cleanup() {
+    mv *.txt "./texts/$foldername/notes/"
+    touch oldnorse_input.txt
+    touch english_input.txt
+    cd ./texts/$foldername
+    python3 ../../tools/post_processing.py
+}
+
 function funcinput() {
     clear
     read -n 1 -p "What language is the text in? e -English; n -Old Norse; b -both; * -ask me again; " userinput
@@ -10,18 +18,14 @@ function funcinput() {
         python3 tools/singlerun.py
         cat oldnorse_input.txt > "./texts/$foldername/ON-Lat.txt"
         cat "11-YF-FINAL.txt" > "./texts/$foldername/ON-YF.txt"
-        mv *.txt "./texts/$foldername/notes/"
-        touch oldnorse_input.txt
-        touch english_input.txt
+        cleanup
         ;;
     "e") 
         clear
         python3 tools/asf_transliterate.py
         cat english_input.txt > "./texts/$foldername/EN-Lat.txt"
         cat "10-ASF-FINAL.txt" > "./texts/$foldername/EN-ASF.txt"
-        mv *.txt "./texts/$foldername/notes/"
-        touch oldnorse_input.txt
-        touch english_input.txt
+        cleanup
         ;;
     "b") 
         clear
@@ -31,9 +35,7 @@ function funcinput() {
         cat "11-YF-FINAL.txt" > "./texts/$foldername/ON-YF.txt"
         cat english_input.txt > "./texts/$foldername/EN-Lat.txt"
         cat "10-ASF-FINAL.txt" > "./texts/$foldername/EN-ASF.txt"
-        mv *.txt "./texts/$foldername/notes/"
-        touch oldnorse_input.txt
-        touch english_input.txt
+        cleanup
         ;;
     *) 
         funcinput
@@ -63,4 +65,5 @@ if [ ! -e "$testfilepath" ]; then
     touch EN-YF.txt
     cd ../..
 fi
+python3 tools/input_processing.py
 funcinput

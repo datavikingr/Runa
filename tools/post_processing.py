@@ -11,7 +11,7 @@ def process_lines(lines):
     return modified_lines
 
 def main():
-    files = ['ON-YF.txt', 'ON-Lat.txt']
+    files = ['ON-YF.txt', 'ON-Lat.txt', 'EN-Lat.txt', 'EN-ASF.txt']
     for file_path in files:
         with open(file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()

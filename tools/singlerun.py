@@ -17,7 +17,7 @@ def remove_punctuation(text):
     return text.translate(translator)
 ##########################################
 def process_input_string(driver, runa_string_in):
-    if runa_string_in.isnumeric():
+    if runa_string_in.strip().isdigit():
         runo_string = runa_string_in
         print(runo_string)
     else:
