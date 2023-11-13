@@ -108,7 +108,7 @@ with open('5-spchked_futhark.txt', 'w') as f:
 with open('5-spchked_futhark.txt', 'r') as file:
     lines = file.readlines()
 modified_lines = [line for line in lines if line.strip()]
-with open('YF-FINAL.txt', 'w') as file:
+with open('11-YF-FINAL.txt', 'w') as file:
     file.writelines(modified_lines)
 ##########################################
 # Complete.
