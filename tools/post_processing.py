@@ -1,9 +1,17 @@
 #!python3
+import re
+
+def is_line_matching_pattern(line):
+    pattern = r'^\d{1,3}\.$'  # Allows 1 to 3 digits before the dot
+    return re.match(pattern, line.strip()) is not None
+
 def process_lines(lines):
     modified_lines = []
 
     for i, line in enumerate(lines):
         if i > 0 and line.strip().isdigit(): # Rule 1: Add a blank line before lines that only contain a number, except for the first line
+            modified_lines.append('\n')
+        if is_line_matching_pattern(line):
             modified_lines.append('\n')
         if line.strip().isdigit() and not line.endswith('.'): # Rule 2: Lines that only contain numbers must end with a period
             line = line.strip() + '.\n'
