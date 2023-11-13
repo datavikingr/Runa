@@ -1,0 +1,38 @@
+#/bin/bash
+
+function funcinput() {
+    clear
+    read -n 1 -p "Please copy/paste the text into oldnorse_input.txt. Type y when ready. " userinput
+	case "$userinput" in
+        "y") python3 tools/asf_transliterate.py;;
+        *) funcinput;;
+    esac
+}
+###MAIN RUN###
+read -p 'Does the directory already exist? y/* ' testdirectoryexists
+if [ $testdirectoryexists=="y" ]; then
+    read -p 'What is the name of the directory? ' foldername
+else
+    read -p 'What is the name of the text? ' textname
+    read -p 'What was the last serial number used in the texts directory? ' textnum
+    ((textnum+=1))
+    foldername="$textnum"-"${textname,,}"
+fi
+testfilepath="./texts/$foldername/ON-Lat.txt"
+if [ ! -e "$testfilepath" ]; then
+    cd texts
+    mkdir $foldername
+    cd $foldername
+    mkdir notes
+    touch ON-Lat.txt
+    touch ON-YF.txt
+    touch EN-Lat.txt
+    touch EN-YF.txt
+    cd ../..
+fi
+funcinput
+cat english_input.txt > "./texts/$foldername/EN-Lat.txt"
+cat "10-ASF-FINAL.txt" > "./texts/$foldername/EN-ASF.txt"
+mv *.txt "./texts/$foldername/notes/"
+touch oldnorse_input.txt
+touch english_input.txt

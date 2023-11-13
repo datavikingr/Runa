@@ -90,10 +90,10 @@ with open('4-futhark_allrunes.txt', 'w') as f:
 ##########################################
 # Fifth Pass: Proper spell check
 ##########################################
-with open('dictionaries/yf_spellcheck.json') as f:
-    sc_dict = json.load(f)
-with open('4-futhark_allrunes.txt', 'r') as f:
-    lines = f.readlines()
+with open('dictionaries/yf_spellcheck.json') as dictionary:
+    sc_dict = json.load(dictionary)
+with open('4-futhark_allrunes.txt', 'r') as source:
+    lines = source.readlines()
 modified_lines = []
 for line in lines:
     words = line.split('᛫')
@@ -108,9 +108,8 @@ with open('5-spchked_futhark.txt', 'w') as f:
 with open('5-spchked_futhark.txt', 'r') as file:
     lines = file.readlines()
 modified_lines = [line for line in lines if line.strip()]
-with open('FINAL.txt', 'w') as file:
+with open('YF-FINAL.txt', 'w') as file:
     file.writelines(modified_lines)
-    file.write(string_to_strip)
 ##########################################
 # Complete.
 ##########################################

@@ -4,7 +4,7 @@ function funcinput() {
     clear
     read -n 1 -p "Please copy/paste the text into oldnorse_input.txt. Type y when ready. " userinput
 	case "$userinput" in
-        "y") python3 singlerun.py;;
+        "y") python3 tools/singlerun.py;;
         *) funcinput;;
     esac
 }
@@ -35,3 +35,4 @@ cat oldnorse_input.txt > "./texts/$foldername/ON-Lat.txt"
 cat FINAL.txt > "./texts/$foldername/ON-YF.txt"
 mv *.txt "./texts/$foldername/notes/"
 touch oldnorse_input.txt
+touch english_input.txt

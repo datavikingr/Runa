@@ -15,20 +15,17 @@ hǫfuðsmátt brynjuna í gǫgnum niðr
 ok svá út í gǫgnum báðar ermar. 
 Þá tók hann brynju af henni, en hon vaknaði, 
 ok settist hon upp ok sá Sigurð ok mælti: 
-
 1.
 "Hvat beit brynju?
 Hví brá ek svefni?
 Hverr felldi af mér
 fǫlvar nauðir?" 
-
 2.
 Hann svaraði:
 "Sigmundar burr,
 - sleit fyr skǫmmu
 hrafn hrælundir, -
 hjǫrr Sigurðar." 
-
 3.
 "Lengi ek svaf,
 lengi ek sofnuð var,
@@ -40,7 +37,6 @@ Sigurðr settist niðr
 ok spyrr hana nafns. 
 Hon tók þá horn fullt mjaðar 
 ok gaf honum minnisveig. 
-
 4.
 "Heill dagr!
 Heilir dags synir!
@@ -48,7 +44,6 @@ Heil nótt ok nipt!
 Óreiðum augum
 lítið okkr þinig
 ok gefið sitjǫndum sigr! 
-
 5.
 Heilir æsir!
 Heilar ásynjur!
@@ -75,7 +70,6 @@ ok kvað hana giptast skyldu.
 Hann segir ok biðr hana kenna sér speki, 
 ef hon vissi tíðindi ór ǫllum heimum. 
 Sigrdrífa kvað: 
-
 6.
 "Bjór fœri ek þér,
 brynþings apaldr,
@@ -85,7 +79,6 @@ fullr er hann ljóða
 ok líknstafa,
 góðra galdra
 ok gamanrúna. 
-
 7.
 Sigrúnar þú skalt rísta,
 ef þú vilt sigr hafa,
@@ -93,7 +86,6 @@ ok rísta á hjalti hjǫrs,
 sumar á véttrimum,
 sumar á valbǫstum,
 ok nefna tysvar Tý. 
-
 8.
 Ǫlrúnar skaltu kunna,
 ef þú vill annars kvæn
@@ -101,7 +93,6 @@ vélit þik í tryggð, ef þú trúir;
 á horni skal þær rísta
 ok á handar baki
 ok merkja á nagli Nauð. 
-
 9.
 Full skal signa
 ok við fári sjá
@@ -109,7 +100,6 @@ ok verpa lauki í lǫg;
 þá ek þat veit,
 at þér verðr aldri
 meinblandinn mjǫðr. 
-
 10.
 Bjargrúnar skaltu kunna,
 ef þú bjarga vilt
@@ -117,7 +107,6 @@ ok leysa kind frá konum;
 á lófum þær skal rísta
 ok of liðu spenna
 ok biðja þá dísir duga. 
-
 11.
 Brimrúnar skaltu rísta,
 ef þú vilt borgit hafa
@@ -128,7 +117,6 @@ ok leggja eld í ár;
 era svá brattr breki
 né svá blár unnir
 þó kømstu heill af hafi. 
-
 12.
 Limrúnar skaltu kunna,
 af þú vilt læknir vera,
@@ -136,7 +124,6 @@ ok kunna sár at sjá;
 á berki skal þær rísta
 ok á baðmi viðar,
 þeim er lúta austr limar. 
-
 13.
 Málrúnar skaltu kunna,
 ef þú vilt at manngi þér
@@ -147,7 +134,6 @@ heiptum gjaldi harm;
 á því þingi,
 er þjóðir skulu
 í fulla dóma fara. 
-
 14.
 Hugrúnar skaltu kunna,
 ef þú vilt hverjum vera
@@ -159,7 +145,6 @@ af þeim legi
 er lekit hafði
 ór hausi Heiðdraupnis
 ok ór horni Hoddrofnis. 
-
 15.
 Á bjargi stóð
 með Brimis eggjar,
@@ -167,7 +152,6 @@ hafði sér á hǫfði hjalm;
 þá mælti Mímis hǫfuð
 fróðligt it fyrsta orð
 ok sagði sanna stafi. 
-
 16.
 Á skildi kvað ristnar,
 þeim er stendr fyr skínandi goði,
@@ -177,7 +161,6 @@ ok á Alsvinns hófi,
 undir reið Rungnis,
 á Sleipnis tǫnnum
 ok á sleða fjǫtrum. 
-
 17.
 á bjarnar hrammi
 ok á Braga tungu,
@@ -187,7 +170,6 @@ ok á arnar nefi,
 ok á brúar sporði,
 á lausnar lófa
 ok á líknar spori, 
-
 18.
 á gleri ok á gulli
 ok á gumna heillum,
@@ -197,7 +179,6 @@ ok vilisessi,
 ok á Grana brjósti,
 á nornar nagli
 ok á nefi uglu. 
-
 19.
 Allar váru af skafnar
 þær er váru á ristnar,
@@ -207,7 +188,6 @@ ok sendar á víða vega;
 þær ro með alfum,
 sumar með vísum vǫnum,
 sumar hafa mennskir menn. 
-
 20.
 Þat eru bókrúnar,
 þat eru bjargrúnar
@@ -218,7 +198,6 @@ ok óspilltar
 sér at heillum hafa;
 njóttu, ef þú namt,
 unz rjúfask regin. 
-
 21.
 Nú skaltu kjósa,
 alls þér er kostr of boðinn,
@@ -226,7 +205,6 @@ hvassa vápna hlynr;
 sǫgn eða þǫgn
 hafðu þér sjálfr í hug,
 ǫll eru mein of metin." 
-
 22.
 "Munka ek flœja,
 þótt mik feigan vitir,
@@ -234,7 +212,6 @@ emka ek með bleyði borinn;
 ástráð þín
 ek vil ǫll hafa,
 svá lengi sem ek lifi." 
-
 23.
 "Þat ræð ek þér it fyrsta,
 at þú við frændr þína
@@ -242,7 +219,6 @@ vammalaust verir;
 síðr þú hefnir,
 þótt þeir sakar gøri,
 þat kveða dauðum duga. 
-
 24.
 Þat ræð ek þér annat
 at þú eið né sverir,
@@ -250,7 +226,6 @@ nema þann er saðr sé;
 grimmar limar
 ganga at tryggðrofi;
 armr er vára vargr. 
-
 25.
 Þat ræð ek þér þriðja
 at þú þingi á
@@ -258,7 +233,6 @@ deilit við heimska hali,
 þvíat ósviðr maðr
 lætur opt kveðin
 verri orð en viti. 
-
 26.
 Allt er vant,
 ef þú við þegir,
@@ -269,7 +243,6 @@ nema sér góðan geti;
 annars dags
 láttu hans ǫndu farit
 ok launa svá lýðum lygi. 
-
 27.
 Þat ræð ek þér it fjórða,
 ef býr fordæða
@@ -277,7 +250,6 @@ vammafull á vegi,
 ganga er betra
 en giska sé,
 þótt þik nótt um nemi. 
-
 28.
 Fornjósnar augu
 þurfu fira synir,
@@ -285,7 +257,6 @@ hvars skulu vreiðir vega;
 opt bǫlvísar konur
 sitja brautu nær,
 þær er deyfa sverð ok sefa. 
-
 29.
 Þat ræð ek þér it fimmta,
 þóttú fagrar sér
@@ -293,7 +264,6 @@ brúðir bekkjum á,
 sifja silfr
 látaðu þínum svefni ráða,
 teygjatu þér at kossi konur. 
-
 30.
 Þat ræð ek þér it sétta,
 þótt með seggjum fari
@@ -301,7 +271,6 @@ teygjatu þér at kossi konur.
 drukkin deila
 skalattu við dolgviðu;
 margan stelr vín viti. 
-
 31.
 Sǫngr ok ǫl
 hefir seggjum verit
@@ -309,7 +278,6 @@ mǫrgum at móðtrega,
 sumum at bana,
 sumum at bǫlstǫfum;
 fjǫlð er þat er fira tregr. 
-
 32.
 Þat ræð ek þér it sjaunda,
 ef þú sakar deilir
@@ -317,7 +285,6 @@ við hugfulla hali,
 berjask er betra
 en brenna sé
 inni auðstǫfum. 
-
 33.
 Þat ræð ek þér it átta
 at þú skalt við illu sjá
@@ -325,7 +292,6 @@ ok firrask flærðarstafi;
 mey þú teygjat
 né manns konu
 né eggja ofgamans. 
-
 34.
 Þat ræð ek þér it níunda
 at þú nám bjargir,
@@ -333,7 +299,6 @@ hvars þú á foldum finnr,
 hvárts eru sóttdauðir
 eða eru sædauðir
 eða eru vápndauðir verar. 
-
 35.
 Laug skal gøra
 þeim er liðnir eru,
@@ -341,7 +306,6 @@ Laug skal gøra
 kemba ok þerra,
 áðr í kistu fari,
 ok biðja sælan sofa. 
-
 36.
 Þat ræð ek þér it tíunda
 at þú trúir aldri
@@ -350,7 +314,6 @@ hvártstu ert bróður bani
 eða hafir þú felldan fǫður;
 úlfr er í ungum syni,
 þótt hann sé gulli gladdr. 
-
 37.
 Sakar ok heiptir
 hyggjat svefngar vera
@@ -358,7 +321,6 @@ né harm in heldr;
 vits ok vápna
 vant er jǫfri at fá,
 þeim er skal fremstr með firum. 
-
 38.
 Þat ræð ek þér it ellipta
 at þú við illu sér
