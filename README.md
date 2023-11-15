@@ -73,8 +73,12 @@ Simple English-to-Futhorc transliteration is the name of the game here with ASF 
 4. Asking follow up questions, if I have any.
 
 # TODO/ROADMAP:
-- Isolate spellcheck function for a 'spelling update' script that iterates through each directory in /texts/*/ON-YF.txt; presumably after updates to the json dictionary.
+- ~Isolate spellcheck function for a 'spelling update' script that iterates through each directory in /texts/*/ON-YF.txt; presumably after updates to the json dictionary.~
 
-- Get through 'normalizing the tone and floweriness of Bellow's English translations of the texts.
+- Get through 'normalizing the tone and floweriness of Bellow's English translations of the texts in a new translation.
 
-- I should probably write my own code for the transliteration to ASF myself. I'm already doing heavier lifting in the spellchecker(s), and building other tools, so why not this one?
+- Add give a spellingupdate.py a bash wrapper that works like makespace.sh
+
+- ~I should probably write my own code for the transliteration to ASF myself. I'm already doing heavier lifting in the spellchecker(s), and building other tools, so why not this one?~
+
+- ~script batch file management to account/make space for additional translations.~
