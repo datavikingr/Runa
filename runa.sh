@@ -2,8 +2,8 @@
 
 function cleanup() {
     mv *.txt "./texts/$foldername/notes/"
-    touch oldnorse_input.txt
-    touch english_input.txt
+    cp ./texts/$foldername/notes/oldnorse_input.txt ./oldnorse_input.txt
+    cp ./texts/$foldername/notes/english_input.txt ./english_input.txt
     cd ./texts/$foldername
     python3 ../../tools/post_processing.py
 }
