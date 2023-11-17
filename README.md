@@ -67,7 +67,7 @@ Simple English-to-Futhorc transliteration is the name of the game here with ASF 
 6. It's pretty quick to pick up after the EF. Honestly, it's just a few tweaks and a bonus aett. You're 3/4 of the way there if you know the EF already.
 
 ## Submission Review:
-1. Plaigarism checker. Not on my watch.
+1. Plaigarism check via online tools for non-commons texts.
 2. Double-checked for AI hallucinations and tone.
 3. Checking the provided sources for veracity.
 4. Asking follow up questions, if I have any.
