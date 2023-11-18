@@ -1,11 +1,18 @@
  #!python3
+#Depricating. Doesn't seem to be getting called from singlerun.py correctly.
+#Moving to update_spelling; ChatGPT tells me it'll parse the whole set at once.
+#I guess I'll see.
+
 
 import json
 
 spell_check = {
 'ᚴᚢᛅᛏ': 'ᚴᚢᛅᚦ',
 'ᚢᚴ': 'ᛅᚢᚴ',
-'ᛅᚴ': 'ᛁᚴ',
+'ᛁᚱ': 'ᛁᛋ',
+'ᛅᚴ': 'ᛁᛅᚴ',
+'ᚢᛅᚱ': 'ᚢᛅᛦ',
+'ᚦᛁᚱ': 'ᚦᛁᛦ',
 'ᚴᛅᚦ': 'ᚴᛁᚦ',
 'ᚴᚬᛘᛦ': 'ᚴᚢᛘᛦ',
 'ᚴᛁᚠᛁᛏᚱ': 'ᚴᛁᚠᛁᛏᛦ',

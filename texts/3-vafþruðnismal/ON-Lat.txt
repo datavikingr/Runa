@@ -4,7 +4,7 @@ alls mik fara tíðir
 at vitja Vafþrúðnis;
 forvitni mikla
 kveð ek mér á fornum stǫfum
-við þann inn alsvinna jǫtun."
+við þann inn alsvinna jǫtun." 
 Frigg kvað:
 
 2.
@@ -13,7 +13,7 @@ ek mynda Herjafǫðr
 í gǫrðum goða,
 þvíat engi jǫtun
 ek hugða jafnramman
-sem Vafþrúðni vera."
+sem Vafþrúðni vera." 
 Óðinn kvað:
 
 3.
@@ -22,7 +22,7 @@ fjǫlð ek freistaða,
 fjǫlð ek reynda regin;
 hitt vil ek vita,
 hvé Vafþrúðnis
-salakynni sé."
+salakynni sé." 
 Frigg kvað:
 
 4.
@@ -31,7 +31,7 @@ heill þú aptr komir!
 heill þú á sinnum sér!
 œði þér dugi,
 hvars þú skalt, Aldafǫðr,
-orðum mæla jǫtun."
+orðum mæla jǫtun." 
 
 5.
 Fór þá Óðinn
@@ -48,7 +48,7 @@ nú em ek í hǫll kominn
 á þik sjálfan sjá;
 hitt vil ek fyrst vita,
 ef þú fróðr sér
-eða alsviðr, jǫtunn."
+eða alsviðr, jǫtunn." 
 Vafþrúðnir kvað:
 
 7.
@@ -57,7 +57,7 @@ er í mínum sal
 verpumk orði á?
 Út þú né komir
 órum hǫllum frá,
-nema þú inn snotrari sér."
+nema þú inn snotrari sér." 
 Óðinn kvað:
 
 8.
@@ -66,7 +66,7 @@ nú emk af gǫngu kominn
 þyrstr til þinna sala;
 laðar þurfi
 hefi ek lengi farit
-ok þinna andfanga, jǫtunn."
+ok þinna andfanga, jǫtunn." 
 Vafþrúðnir kvað:
 
 9.
@@ -75,7 +75,7 @@ mælisk af gólfi fyr?
 Farðu í sess í sal!
 Þá skal freista
 hvárr fleira viti,
-gestr eða inn gamli þulr."
+gestr eða inn gamli þulr." 
 Óðinn kvað:
 
 10.
@@ -84,7 +84,7 @@ er til auðigs kømr,
 mæli þarft eða þegi;
 ofrmælgi mikil
 hygg ek at illa geti
-hveim er við kaldrifjaðan kømr."
+hveim er við kaldrifjaðan kømr." 
 Vafþrúðnir kvað:
 
 11.
@@ -93,7 +93,7 @@ alls þú á gólfi vill
 þíns um freista frama,
 hvé sá hestr heitir
 er hverjan dregr
-dag of dróttmǫgu."
+dag of dróttmǫgu." 
 Óðinn kvað:
 
 12.
@@ -103,7 +103,7 @@ dag um dróttmǫgu;
 hesta beztr
 þykkir hann með
 Hreiðgotum,
-ey lýsir mǫn af mari."
+ey lýsir mǫn af mari." 
 Vafþrúðnir kvað:
 
 13.
@@ -112,7 +112,7 @@ alls þú á gólfi vill
 þíns of freista frama,
 hvé sá jór heitir
 er austan dregr
-nótt of nýt regin."
+nótt of nýt regin." 
 Óðinn kvað:
 
 14.
@@ -121,7 +121,7 @@ er hverja dregr
 nótt of nýt regin;
 méldropa fellir
 hann morgin hvern,
-þaðan kømr døgg um dala."
+þaðan kømr døgg um dala." 
 Vafþrúðnir kvað:
 
 15.
@@ -130,7 +130,7 @@ alls þú á gólfi vill
 þíns um freista frama,
 hvé sú á heitir
 er deilir með jǫtna sonum
-grund ok með goðum."
+grund ok með goðum." 
 Óðinn kvað:
 
 16.
@@ -139,7 +139,7 @@ er deilir með jǫtna sonum
 grund ok með goðum;
 opin renna
 hon skal um aldrdaga,
-verðrat íss á á."
+verðrat íss á á." 
 Vafþrúðnir kvað:
 
 17.
@@ -148,7 +148,7 @@ alls þú á gólfi vill
 þíns um freista frama,
 hvé sá vǫllr heitir
 er finnask vígi at
-Surtr ok in svásu goð."
+Surtr ok in svásu goð." 
 Óðinn kvað:
 
 18.
@@ -157,7 +157,7 @@ er finnask vígi at
 Surtr ok in svásu goð;
 hundrað rasta
 hann er á hverjan veg,
-sá er þeim vǫllr vitaðr."
+sá er þeim vǫllr vitaðr." 
 Vafþrúðnir kvað:
 
 19.
@@ -166,7 +166,7 @@ far þú á bekk jǫtuns,
 ok mælumk í sessi saman;
 hǫfði veðja
 vit skulum hǫllu í,
-gestr, of geðspeki."
+gestr, of geðspeki." 
 Óðinn kvað:
 
 20.
@@ -175,7 +175,7 @@ ef þitt œði dugir
 ok þú, Vafþrúðnir, vitir,
 hvaðan jǫrð um kom
 eða upphiminn
-fyrst, inn fróði jǫtunn."
+fyrst, inn fróði jǫtunn." 
 Vafþrúðnir kvað:
 
 21.
@@ -184,7 +184,7 @@ var jǫrð of skǫpuð
 en ór beinum bjǫrg,
 himinn ór hausi
 ins hrímkalda jǫtuns,
-en ór sveita sjór."
+en ór sveita sjór." 
 Óðinn kvað:
 
 22.
@@ -193,7 +193,7 @@ ef þitt œði dugir
 ok þú, Vafþrúðnir, vitir,
 hvaðan máni um kom
 svá at ferr menn yfir,
-eða sól it sama."
+eða sól it sama." 
 Vafþrúðnir kvað:
 
 23.
@@ -202,7 +202,7 @@ hann er Mána faðir
 ok svá Sólar it sama;
 himin hverfa
 þau skulu hverjan dag
-ǫldum at ártali."
+ǫldum at ártali." 
 Óðinn kvað:
 
 24.
@@ -211,7 +211,7 @@ alls þik svinnan kveða
 ok þú, Vafþrúðnir, vitir,
 hvaðan dagr um kom,
 sá er ferr drótt yfir,
-eða nótt með niðum."
+eða nótt með niðum." 
 Vafþrúðnir kvað:
 
 25.
@@ -220,7 +220,7 @@ hann er Dags faðir,
 en Nótt var Nǫrvi borin;
 ný ok nið
 skópu nýt regin
-ǫldum at ártali."
+ǫldum at ártali." 
 Óðinn kvað:
 
 26.
@@ -229,13 +229,13 @@ alls þik fróðan kveða
 ok þú, Vafþrúðnir, vitir,
 hvaðan vetr um kom
 eða varmt sumar
-fyrst með fróð regin."
+fyrst með fróð regin." 
 Vafþrúðnir kvað:
 
 27.
 "Vindsvalr heitir,
 hann er Vetrar faðir,
-en Svásuðr sumars."
+en Svásuðr sumars." 
 Óðinn kvað:
 
 28.
@@ -244,7 +244,7 @@ alls þik fróðan kveða
 ok þú, Vafþrúðnir, vitir,
 hverr ása elztr
 eða Ymis niðja
-yrði í árdaga."
+yrði í árdaga." 
 Vafþrúðnir kvað:
 
 29.
@@ -253,7 +253,7 @@ Vafþrúðnir kvað:
 þá var Bergelmir borinn,
 Þrúðgelmir
 var þess faðir
-en Aurgelmir afi."
+en Aurgelmir afi." 
 Óðinn kvað:
 
 30.
@@ -262,7 +262,7 @@ alls þik svinnan kveða
 ok þú, Vafþrúðnir, vitir,
 hvaðan Aurgelmir kom
 með jǫtna sonum
-fyrst, inn fróði jǫtunn."
+fyrst, inn fróði jǫtunn." 
 Vafþrúðnir kvað:
 
 31.
@@ -271,7 +271,7 @@ stukku eitrdropar,
 svá óx, unz varð jǫtunn;
 þar órar ættir
 kómu allar saman;
-því er þat æ allt til atalt."
+því er þat æ allt til atalt." 
 Óðinn kvað:
 
 32.
@@ -280,7 +280,7 @@ alls þik svinnan kveða
 ok þú, Vafþrúðnir, vitir,
 hvé sá bǫrn gat
 inn baldni jǫtunn
-er hann hafðit gýgjar gaman."
+er hann hafðit gýgjar gaman." 
 Vafþrúðnir kvað:
 
 33.
@@ -289,7 +289,7 @@ kváðu hrímþursi
 mey ok mǫg saman;
 fótr við fœti
 gat ins fróða jǫtuns
-sexhǫfðaðan son."
+sexhǫfðaðan son." 
 Óðinn kvað:
 
 34.
@@ -298,7 +298,7 @@ alls þik svinnan kveða
 ok þú, Vafþrúðnir, vitir,
 hvat þú fyrst of mant
 eða fremst of veizt,
-þú ert alsviðr, jǫtunn."
+þú ert alsviðr, jǫtunn." 
 Vafþrúðnir kvað:
 
 35.
@@ -307,7 +307,7 @@ Vafþrúðnir kvað:
 þá var Bergelmir borinn;
 þat ek fyrst um man
 er sá inn fróði jǫtunn
-var á lúðr um lagiðr."
+var á lúðr um lagiðr." 
 Óðinn kvað:
 
 36.
@@ -316,7 +316,7 @@ alls þik svinnan kveða
 ok þú, Vafþrúðnir, vitir,
 hvaðan vindr um kømr,
 svá at ferr vág yfir;
-æ menn han sjálfan um sjá."
+æ menn han sjálfan um sjá." 
 Vafþrúðnir kvað:
 
 37.
@@ -325,7 +325,7 @@ er sitr á himins enda,
 jǫtunn í arnar ham;
 af hans vængjum
 kveða vind koma
-alla menn yfir."
+alla menn yfir." 
 Óðinn kvað:
 
 38.
@@ -334,9 +334,9 @@ alls þú tíva røk
 ǫll, Vafþrúðnir, vitir,
 hvaðan Njǫrðr um kom
 með ása sonum
-hofum ok hǫrgum
-hann ræðr hunnmǫrgum
-ok varðat hann ásum alinn."
+- hofum ok hǫrgum
+hann ræðr hunnmǫrgum -
+ok varðat hann ásum alinn." 
 Vafþrúðnir kvað:
 
 39.
@@ -345,13 +345,13 @@ skópu hann vís regin
 ok seldu at gíslingu goðum;
 í aldar røk
 hann mun aptr koma
-heim með vísum vǫnum."
+heim með vísum vǫnum." 
 Óðinn kvað:
 
 40.
 "Segðu þat et ellipta,
 hvar ýtar túnum í
-hǫggvask hverjan dag."
+hǫggvask hverjan dag." 
 Vafþrúðnir kvað:
 
 41.
@@ -360,7 +360,7 @@ Vafþrúðnir kvað:
 hǫggvask hverjan dag;
 val þeir kjósa
 ok ríða vígi frá,
-sitja meirr um sáttir saman."
+sitja meirr um sáttir saman." 
 Óðinn kvað:
 
 42.
@@ -370,7 +370,7 @@ hví þú tíva røk
 frá jǫtna rúnum
 ok allra goða
 segir þú it sannasta,
-inn alsvinni jǫtunn."
+inn alsvinni jǫtunn." 
 Vafþrúðnir kvað:
 
 43.
@@ -380,7 +380,7 @@ ek kann segja satt,
 þvíat hvern hefi ek heim um komit;
 níu kom ek heima
 fyr Niflhel neðan;
-hinig deyja ór helju halir."
+hinig deyja ór helju halir." 
 Óðinn kvað:
 
 44.
@@ -389,7 +389,7 @@ fjǫlð ek freistaðak,
 fjǫlð ek reynda regin;
 hvat lifir manna,
 þá er inn mæra líðr
-fimbulvetr með firum?"
+fimbulvetr með firum?" 
 Vafþrúðnir kvað:
 
 45.
@@ -398,7 +398,7 @@ en þau leynask munu
 í holti Hoddmímis;
 morgindǫggvar
 þau sér at mat hafa,
-þaðan af aldir alask."
+þaðan af aldir alask." 
 Óðinn kvað:
 
 46.
@@ -407,7 +407,7 @@ fjǫlð ek freistaðak,
 fjǫlð ek reynda regin;
 hvaðan kømr sól
 á inn slétta himin,
-þá er þessa hefir Fenrir farit?"
+þá er þessa hefir Fenrir farit?" 
 Vafþrúðnir kvað:
 
 47.
@@ -416,7 +416,7 @@ berr Álfrǫðull,
 áðr hana Fenrir fari;
 sú skal ríða,
 þá er regin deyja,
-móður brautir mær."
+móður brautir mær." 
 Óðinn kvað:
 
 48.
@@ -425,7 +425,7 @@ fjǫlð ek freistaðak,
 fjǫlð ek reynda regin;
 hverjar ro þær meyjar
 er líða mar yfir,
-fróðgeðjaðar fara?"
+fróðgeðjaðar fara?" 
 Vafþrúðnir kvað:
 
 49.
@@ -434,7 +434,7 @@ falla þorp yfir
 meyja Mǫgþrasis;
 hamingjur einar
 þeira í heimi eru,
-þó þær með jǫtnum alask."
+þó þær með jǫtnum alask." 
 Óðinn kvað:
 
 50.
@@ -443,7 +443,7 @@ fjǫlð ek freistaðak,
 fjǫlð ek reynda regin;
 hverir ráða æsir
 eignum goða,
-þá er slokknar Surtalogi?"
+þá er slokknar Surtalogi?" 
 Vafþrúðnir kvað:
 
 51.
@@ -452,7 +452,7 @@ byggja vé goða,
 þá er slokknar Surtalogi;
 Móði ok Magni
 skulu Mjǫllni hafa
-Vingnis at vígþroti."
+Vingnis at vígþroti." 
 Óðinn kvað:
 
 52.
@@ -461,7 +461,7 @@ fjǫlð ek freistaðak,
 fjǫlð ek reynda regin;
 hvat verðr Óðni
 at aldrlagi,
-þá er rjúfask regin?"
+þá er rjúfask regin?" 
 Vafþrúðnir kvað:
 
 53.
@@ -470,7 +470,7 @@ mun Aldafǫðr,
 þess mun Víðarr vreka;
 kalda kjapta
 hann klyfja mun
-vitnis vígi at."
+vitnis vígi at." 
 Óðinn kvað:
 
 54.
@@ -479,7 +479,7 @@ fjǫlð ek freistaðak,
 fjǫlð ek reynda regin;
 hvat mælti Óðinn,
 áðr á bál stigi,
-sjálfr í eyra syni?"
+sjálfr í eyra syni?" 
 Vafþrúðnir kvað:
 
 55.
@@ -488,10 +488,10 @@ hvat þú í árdaga
 sagðir í eyra syni;
 feigum munni
 mælta ek mína forna stafi
-ok um ragna røk."
+ok um ragna røk." 
 Vafþrúðnir kvað:
 
 56.
 "Nú ek við Óðin deildak
 mína orðspeki;
-þú ert æ vísastr vera.“
+þú ert æ vísastr vera."
