@@ -34,7 +34,7 @@ If there's a question between the aforementioned and the other sources listed th
 
 For the resulting runic versions, I run the dirty-data version through this codebase to polish down the rough edges. A couple letter-rune fixes, and then a spell checking proper, from the output of [runic.is]('https://runic.is/') (used with permission).
 
-Further, I am cross-referencing the work of Dr. Jackson Crawford, via his YouTube series covering his estimation of the Havamal in YF. From that video/series, I'm building a runic spell-check dictionary (sc_dict.py), to perform ᚱ/ᛦ-swaps and other spelling considerations. Pro tip: if it's a s/z sound at the of the word in English, chances are pretty high it's ᛦ not ᚱ. You can check out the dictionary directry or Submissions Guidelines below for more details.
+Further, I am cross-referencing the work of Dr. Jackson Crawford for spelling tips. Pro tip to share: if it's a s/z sound at the of the word in English, chances are pretty high it's ᛦ not ᚱ. You can check out the dictionary directory or Submissions Guidelines below for more details.
 
 HOWEVER. Spelling, as a concept, didn't even exist when these documents were written, let alone as it does now. "Sound it out," and "Did you understand it or not?" are the only rules they had. So calls had to be made. See the comments in sc_dict.py further details. All of the possiible spellings are valid enough per the rules above, so some of the differences come down to simple preference. If you have an example of a better spelling, feel free to submit a pull request using the guidlines below.
 
@@ -42,22 +42,29 @@ HOWEVER. Spelling, as a concept, didn't even exist when these documents were wri
 
 Whether it's an academic interest or spiritual devotion that brought you here, please feel free to submit changes to the work, to the code, anything. State your reasoning in as much detail as possible, and cite the applicable source(s). Bibliographic information is good, links are better. 
 
-If you have new inscription databases to add to the cross-referencing function, code optimizations, or some other new feature: please, feel free to submit the PR. Any help will be greatly appreicated.
+If you have new inscription databases to add to the cross-referencing function, code optimizations, or some other new feature: please, feel free to submit the PR. Any help will be greatly appreicated. Try to generate steps as .txt files for the notes subdirectory, if you add additional passes.
 
 For the non-coders, search 'pull request tutorial for git/github beginners' in your preferred search engine, and that'll get you in the space you need to be and moving. 
 
-## For Spelling-only corrections:
-Add your entry to buildspellcheckdict.py in the format you see there. Save and run it to recompile spellcheck.json automatically.
+## For YF Spelling-only corrections:
+- Add your entry to `spelling_dict` inside `update_spelling.py`. Run it, it'll do the rest.
+- Both `buildspellcheckdict.py` & `yf_spellcheck.json` are depricated.
+- Priority list is based on frequency of words through all out all texts. I am sampling through the list, for the sake of my sanity. Possible ᛦ-swaps get 100% check-rate. 
+- When possible, prefer Viking-age inscriptions and spellings (700-1100 CE)
 
 See roadmap below for more details. 
 
 ## For New Texts:
-Run `.newtext.sh`. Follow the directions on the screen.
+Run `./tools/runa.sh`. Follow the directions on the screen. It's a bash wrapper for 4 Python tools:
+1. input_processing.py - This keeps 2 & 3 from breaking.
+2. asf_transliterate.py - pretty straight forward. Two passes, for prioritization's sake.
+3. oldnorserun.py - what it is says on the can.
+4. post_processing.py - I like this formatting.
 
 ## English Translations/Tranliterations:
-Abide copyright law; make sure the translation is in the commons, or is otherwise licensed for republication. If you'd like to add additional English translates (eg, a Grimm translation) the files should be named in the following format: `EN-Lat-Name.txt` and `EN-ASF-Name.txt` 
+Run `python3 ./tools/asf_transliterate.py`. Abide copyright law; make sure the translation is in the commons, or is otherwise licensed for republication. If you'd like to add additional English translates (eg, a Grimm translation) the files should be named in the following format: `EN-Lat-Name.txt` and `EN-ASF-Name.txt` 
 
-Simple English-to-Futhorc transliteration is the name of the game here with ASF versions. We've all done it. Let's normalize it, but correctly - use the AS Futhorc. I use an app on my Chromebook for it. 
+Simple English-to-Futhorc transliteration is the name of the game here with ASF versions. See below.
 
 ### No Elder Futhark tranliterations will be accepted. Here's why:
 1. EF + Eng is wildly ahistorical and no one that I'm aware of knows enough Proto Old Norse outside of pure conjecture and few examples to be able to use them correctly. Part of the point of this project is accuracy, so this is the primary reason.
@@ -73,12 +80,12 @@ Simple English-to-Futhorc transliteration is the name of the game here with ASF 
 4. Asking follow up questions, if I have any.
 
 # TODO/ROADMAP:
-- ~Isolate spellcheck function for a 'spelling update' script that iterates through each directory in /texts/*/ON-YF.txt; presumably after updates to the json dictionary.~
+- ~Isolate spellcheck function for a 'spelling update' script that iterates through each directory in /texts/*/ON-YF.txt; presumably after updates to the json dictionary.~ Wrote a whole new one in just Python.
 
 - Get through 'normalizing the tone and floweriness of Bellow's English translations of the texts in a new translation.
 
-- Add give a spellingupdate.py a bash wrapper that works like makespace.sh
+- ~Add give a spellingupdate.py a bash wrapper that works like makespace.sh~ Depricated prior to implementation.
 
-- ~I should probably write my own code for the transliteration to ASF myself. I'm already doing heavier lifting in the spellchecker(s), and building other tools, so why not this one?~
+- ~I should probably write my own code for the transliteration to ASF myself. I'm already doing heavier lifting in the spellchecker(s), and building other tools, so why not this one?~ Completed.
 
-- ~script batch file management to account/make space for additional translations.~
+- ~script batch file management to account/make space for additional translations.~ Script written, unused so far.

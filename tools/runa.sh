@@ -15,7 +15,7 @@ function funcinput() {
     case "$userinput" in
     "n")
         clear
-        python3 tools/singlerun.py
+        python3 tools/oldnorserun.py
         cat oldnorse_input.txt > "./texts/$foldername/ON-Lat.txt"
         cat "11-YF-FINAL.txt" > "./texts/$foldername/ON-YF.txt"
         cleanup
@@ -29,7 +29,7 @@ function funcinput() {
         ;;
     "b") 
         clear
-        python3 tools/singlerun.py
+        python3 tools/oldnorserun.py
         python3 tools/asf_transliterate.py
         cat oldnorse_input.txt > "./texts/$foldername/ON-Lat.txt"
         cat "11-YF-FINAL.txt" > "./texts/$foldername/ON-YF.txt"

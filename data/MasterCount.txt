@@ -482,14 +482,11 @@ gestr - 12
 nætr - 12
 taka - 12
 mæki - 12
-
-
-
-
-
 unna - 12
 heita - 12
 álfa - 12
+
+
 dauða - 12
 húna - 12
 brœðra - 12
